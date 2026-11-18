@@ -1,0 +1,92 @@
+# Data Cleaning Process
+
+A general, first-layer guide for turning raw data into analysis-ready data. It is intentionally general and can be made more specific as the project grows.
+
+## Rules
+
+1. **Never edit the raw data.** Keep the original files exactly as downloaded.
+2. **Make every change with a script,** never by hand, so anyone can rerun it and get the same result.
+3. **Document everything:** where the data came from, when it was downloaded, and what was changed and why.
+4. **Check after every step.** Look at row counts, missing values and value ranges after each change.
+5. **Version your outputs.** Never overwrite a cleaned file without changing its version number.
+6. **Don't drop or fill values silently.** Every decision about missing or unusual data gets written down.
+7. **Have a teammate review** the cleaning steps before anyone starts analysis.
+
+## Steps
+
+### 1. Record the source
+Write down, for each dataset: the source and link, the download date, the time period it covers, the geographic level, and what each column means, including its units.
+
+### 2. Inspect before changing anything
+- Check the number of rows and columns, column names, data types, and the first and last rows.
+- Look for extra header rows, footnotes, merged cells and notes mixed into the data.
+- Summarize each column: minimum, maximum, number of missing values and number of unique values.
+
+### 3. Fix the structure
+- Make sure there is one header row and one row per observation.
+- Rename columns to a consistent style (lowercase, underscores, no spaces or special characters).
+- Remove empty rows and columns, and any footer or notes rows.
+
+### 4. Fix data types
+- Convert numbers stored as text (remove commas, `$`, `%`) to numeric values.
+- Convert dates to one standard format.
+- Store identifiers such as codes and ZIP or FIPS codes as text, so leading zeros are kept.
+
+### 5. Standardize names and categories
+- Trim extra spaces and fix inconsistent capitalization and spelling.
+- Make labels match across files so joins do not silently fail.
+- Keep a record of every renaming you do.
+
+### 6. Handle missing and special values
+- Count missing values in each column.
+- Find codes that mean "missing" or "suppressed" (such as `-999`, `N/A`, `(X)`, `*`) and convert them to true missing values.
+- Decide for each column whether to drop, fill, or keep and flag. Do not replace missing values with zero without a clear reason.
+- Record each decision.
+
+### 7. Remove duplicates and check for errors
+- Check for duplicate rows and duplicate keys.
+- Look for impossible values, such as negative counts, percentages over 100, or future dates.
+- Investigate outliers before removing them, because a large value may be real.
+
+### 8. Align units, time periods and definitions
+- Make sure all datasets use the same time period, units and definitions.
+- Adjust dollar values for inflation if the years differ.
+- Convert units where needed, for example to rates per 100,000 people.
+
+### 9. Create derived fields
+- Calculate new columns (percentages, rates, per-capita values, group flags) in the script, not by hand.
+- Write down the formula for each new column.
+
+### 10. Join datasets
+- Choose a shared key that exists in every dataset.
+- Check that the key is unique in each table before joining.
+- After each join, confirm the row count is what you expected and count the rows that failed to match.
+- Fix the cause of unmatched rows instead of dropping them.
+
+### 11. Validate
+- Re-run summary statistics and compare them to the raw data.
+- Spot-check a few rows against the original source.
+- Compare totals or averages to a published number when one exists.
+- Have a second person review the joins and derived fields.
+
+### 12. Save and document
+- Save the final table with a versioned name.
+- Log the date, who made the change, and what changed.
+
+## Checklist
+
+- [ ] Raw files kept unchanged
+- [ ] Source, date, period and column meanings recorded
+- [ ] Data inspected before any changes
+- [ ] Structure fixed (one header, one row per observation)
+- [ ] Column names and data types fixed
+- [ ] Identifier columns stored as text
+- [ ] Names and categories standardized
+- [ ] Missing and special values handled and recorded
+- [ ] Duplicates and impossible values checked
+- [ ] Units, time periods and definitions aligned
+- [ ] Derived fields calculated and formulas written down
+- [ ] Joins verified (row counts and unmatched rows)
+- [ ] Results validated against the source
+- [ ] Cleaned file saved with a version number
+- [ ] Changes logged and reviewed by a teammate
