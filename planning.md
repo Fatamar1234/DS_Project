@@ -44,6 +44,8 @@ We will use a consistent data year or ACS 5-year period wherever possible, docum
 
 **Tasks:**
 - Find a credible source/list/map of data center locations in Virginia.
+- Count the number of data centers in each county.
+Save the cleaned dataset for the group.
 - Save the original source/download in `raw_data/` (or save a source copy and document its URL and retrieval date if no downloadable file is available).
 - Determine which county or county-equivalent each location is in; deduplicate locations as needed.
 - Produce a cleaned county-level file with county name/FIPS and a binary indicator: `has_data_center` (1 = yes, 0 = no). Include a count of data center facilities by county if the source supports it.
