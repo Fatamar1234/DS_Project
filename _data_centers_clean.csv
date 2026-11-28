@@ -1,0 +1,934 @@
+,project_name,latitude,longitude,status,operating_year,county
+0,Spring Valley Technology Park,39.00588,-77.568201,Planned,,Loudoun
+1,Aligned IAD01,39.01362,-77.470578,Operating,2021.0,Loudoun
+2,Aligned IAD02,39.010411,-77.475189,Operating,2023.0,Loudoun
+3,Aligned IAD03,38.988621,-77.440752,Operating,2025.0,Loudoun
+4,Amazon Birchwood - Building 1,38.269152,-77.318478,Planned,,King George
+5,Amazon Birchwood - Building 2,38.267652,-77.318478,Planned,,King George
+6,Amazon Birchwood - Building 3,38.266152,-77.318478,Planned,,King George
+7,Amazon Birchwood - Building 4,38.264652,-77.318478,Planned,,King George
+8,Amazon Birchwood - Building 5,38.269152,-77.316978,Planned,,King George
+9,Amazon Birchwood - Building 6,38.267652,-77.316978,Planned,,King George
+10,Amazon Birchwood - Building 7,38.266152,-77.316978,Planned,,King George
+11,Amazon Birchwood - Building 8,38.264652,-77.316978,Planned,,King George
+12,Amazon Carter's Store Tech Campus - Building 1,38.192512,-77.455558,Planned,,Spotsylvania
+13,Amazon Carter's Store Tech Campus - Building 10,38.186512,-77.454058,Planned,,Spotsylvania
+14,Amazon Carter's Store Tech Campus - Building 2,38.191012,-77.455558,Planned,,Spotsylvania
+15,Amazon Carter's Store Tech Campus - Building 3,38.189512,-77.455558,Planned,,Spotsylvania
+16,Amazon Carter's Store Tech Campus - Building 4,38.188012,-77.455558,Planned,,Spotsylvania
+17,Amazon Carter's Store Tech Campus - Building 5,38.186512,-77.455558,Planned,,Spotsylvania
+18,Amazon Carter's Store Tech Campus - Building 6,38.192512,-77.454058,Planned,,Spotsylvania
+19,Amazon Carter's Store Tech Campus - Building 7,38.191012,-77.454058,Planned,,Spotsylvania
+20,Amazon Carter's Store Tech Campus - Building 8,38.189512,-77.454058,Planned,,Spotsylvania
+21,Amazon Carter's Store Tech Campus - Building 9,38.188012,-77.454058,Planned,,Spotsylvania
+22,Amazon Devlin Technology Park - Building 1,38.760722,-77.578641,Planned,,Prince William
+23,Amazon Devlin Technology Park - Building 2,38.762474,-77.579016,Planned,,Prince William
+24,Amazon Devlin Technology Park - Building 3,38.764732,-77.57795,Planned,,Prince William
+25,Amazon Devlin Technology Park - Building 4,38.767259,-77.576752,Planned,,Prince William
+26,Amazon Devlin Technology Park - Building 5,38.761814,-77.576822,Planned,,Prince William
+27,Amazon Devlin Technology Park - Building 6,38.764072,-77.575756,Planned,,Prince William
+28,Amazon Devlin Technology Park - Building 7,38.766599,-77.574557,Planned,,Prince William
+29,Amazon Devlin Technology Park - Building 8,38.76845,-77.574879,Planned,,Prince William
+30,Amazon Massaponax Tech Campus - Building 1,38.2174,-77.44615,Planned,2029.0,Spotsylvania
+31,Amazon Massaponax Tech Campus - Building 2,38.2159,-77.44615,Planned,2029.0,Spotsylvania
+32,Amazon Massaponax Tech Campus - Building 3,38.2144,-77.44615,Planned,2029.0,Spotsylvania
+33,Amazon Massaponax Tech Campus - Building 4,38.2174,-77.44465,Planned,2029.0,Spotsylvania
+34,Amazon Massaponax Tech Campus - Building 5,38.2159,-77.44465,Planned,2029.0,Spotsylvania
+35,Amazon Massaponax Tech Campus - Building 6,38.2144,-77.44465,Planned,2029.0,Spotsylvania
+36,Amazon Mattameade Tech Campus - Building 1,38.115397,-77.485342,Under Construction,2027.0,Caroline
+37,Amazon Mattameade Tech Campus - Building 10,38.117349,-77.491342,Planned,2027.0,Caroline
+38,Amazon Mattameade Tech Campus - Building 11,38.117349,-77.489842,Planned,2027.0,Caroline
+39,Amazon Mattameade Tech Campus - Building 2,38.114498,-77.486848,Under Construction,2027.0,Caroline
+40,Amazon Mattameade Tech Campus - Building 3,38.114349,-77.491342,Planned,2027.0,Caroline
+41,Amazon Mattameade Tech Campus - Building 4,38.114349,-77.489842,Planned,2027.0,Caroline
+42,Amazon Mattameade Tech Campus - Building 5,38.115849,-77.493592,Planned,2027.0,Caroline
+43,Amazon Mattameade Tech Campus - Building 6,38.115849,-77.492092,Planned,2027.0,Caroline
+44,Amazon Mattameade Tech Campus - Building 7,38.115849,-77.490592,Planned,2027.0,Caroline
+45,Amazon Mattameade Tech Campus - Building 8,38.117349,-77.494342,Planned,2027.0,Caroline
+46,Amazon Mattameade Tech Campus - Building 9,38.117349,-77.492842,Planned,2027.0,Caroline
+47,Amazon Northeast Creek Campus - Building 1,37.982231,-77.949564,Under Construction,2027.0,Louisa
+48,Amazon Northeast Creek Campus - Building 10,37.979307,-77.954311,Planned,2028.0,Louisa
+49,Amazon Northeast Creek Campus - Building 2,37.980733,-77.947949,Planned,2027.0,Louisa
+50,Amazon Northeast Creek Campus - Building 3,37.979891,-77.946518,Planned,2027.0,Louisa
+51,Amazon Northeast Creek Campus - Building 4,37.978751,-77.945461,Planned,2027.0,Louisa
+52,Amazon Northeast Creek Campus - Building 5,37.981687,-77.952049,Planned,2027.0,Louisa
+53,Amazon Northeast Creek Campus - Building 6,37.980563,-77.950993,Planned,2028.0,Louisa
+54,Amazon Northeast Creek Campus - Building 7,37.980063,-77.950286,Planned,2028.0,Louisa
+55,Amazon Northeast Creek Campus - Building 8,37.979043,-77.949314,Planned,2028.0,Louisa
+56,Amazon Northeast Creek Campus - Building 9,37.978576,-77.948491,Planned,2028.0,Louisa
+57,Amazon Summit Crossing Tech Campus - Building 1,38.190763,-77.439096,Planned,,Spotsylvania
+58,Amazon Summit Crossing Tech Campus - Building 2,38.189263,-77.439096,Planned,,Spotsylvania
+59,Amazon Summit Crossing Tech Campus - Building 3,38.187763,-77.439096,Planned,,Spotsylvania
+60,Amazon Summit Crossing Tech Campus - Building 4,38.186263,-77.439096,Planned,,Spotsylvania
+61,Amazon Summit Crossing Tech Campus - Building 5,38.190763,-77.437596,Planned,,Spotsylvania
+62,Amazon Summit Crossing Tech Campus - Building 6,38.189263,-77.437596,Planned,,Spotsylvania
+63,Amazon Summit Crossing Tech Campus - Building 7,38.187763,-77.437596,Planned,,Spotsylvania
+64,Amazon Summit Crossing Tech Campus - Building 8,38.186263,-77.437596,Planned,,Spotsylvania
+65,Amazon Summit Technology Park - Building 1,38.1994,-77.43355,Planned,,Spotsylvania
+66,Amazon Summit Technology Park - Building 2,38.1979,-77.43355,Planned,,Spotsylvania
+67,Amazon Summit Technology Park - Building 3,38.1964,-77.43355,Planned,,Spotsylvania
+68,Amazon Summit Technology Park - Building 4,38.1994,-77.43205,Planned,,Spotsylvania
+69,Amazon Summit Technology Park - Building 5,38.1979,-77.43205,Planned,,Spotsylvania
+70,Amazon Summit Technology Park - Building 6,38.1964,-77.43205,Planned,,Spotsylvania
+71,AWS 13225 Skylark View Way,38.79074,-77.58617,Planned,,Prince William
+72,AWS 13235 Skylark View Way,38.79189,-77.58795,Planned,,Prince William
+73,AWS 7101 Century Park Drive,38.79773,-77.544345,Planned,,Prince William
+74,AWS 7300 Century Park Drive,38.796121,-77.542337,Planned,,Prince William
+75,AWS Ashton Avenue - Building 1,38.77167,-77.51203,Planned,,Prince William
+76,AWS Ashton Avenue - Building 2,38.77437,-77.51434,Planned,,Prince William
+77,AWS Ashton Avenue - Building 3,38.77302,-77.51319,Planned,,Prince William
+78,AWS Brambleton Business Campus - Building 1,38.9534,-77.5196,Planned,,Loudoun
+79,AWS Brambleton Business Campus - Building 2,38.9547,-77.5186,Planned,,Loudoun
+80,AWS Bridgefield Tech Center - Building 1,39.0602,-77.4463,Canceled,,Loudoun
+81,AWS Bridgefield Tech Center - Building 2,39.0618,-77.4452,Canceled,,Loudoun
+82,AWS Bridgefield Tech Center - Building 3,39.0621,-77.4432,Canceled,,Loudoun
+83,AWS Bridgefield Tech Center - Building 4,39.0565,-77.4443,Canceled,,Loudoun
+84,AWS Colchester Industrial Park - Building 1,38.630186,-77.412641,Planned,,Prince William
+85,AWS Colchester Industrial Park - Building 2,38.633593,-77.413239,Planned,,Prince William
+86,AWS Colchester Industrial Park - Building 3,38.6319,-77.4124,Planned,,Prince William
+87,AWS Cosner Campus - Building 1,38.201487,-77.477434,Operating,2025.0,Spotsylvania
+88,AWS Cosner Campus - Building 2,38.203143,-77.478908,Operating,2026.0,Spotsylvania
+89,AWS Cosner Campus - Building 3,38.20587,-77.478112,Under Construction,2027.0,Spotsylvania
+90,AWS Cosner Campus - Building 4,38.2055374,-77.4756664,Planned,2027.0,Spotsylvania
+91,AWS Cosner Campus - Building 5,38.2088972,-77.4779198,Under Construction,2027.0,Spotsylvania
+92,AWS Cosner Campus - Building 6,38.2088972,-77.4763212,Under Construction,2027.0,Spotsylvania
+93,AWS Cosner Campus - Building 7,38.2077848,-77.4741256,Planned,2027.0,Spotsylvania
+94,AWS DCA-060 Stevensburg Building 1,38.437701,-77.875011,Operating,2025.0,Culpeper
+95,AWS DCA-060 Stevensburg Building 2,38.437378,-77.872501,Planned,2027.0,Culpeper
+96,AWS DCA-50 Elkwood,38.459821,-77.8491868,Operating,2021.0,Culpeper
+97,AWS DCA-51 WTC Station B West 1,38.737768,-77.835685,Operating,2014.0,Fauquier
+98,AWS DCA-51 WTC Station B West 2,38.737978,-77.834243,Operating,2021.0,Fauquier
+99,AWS DCA-54 Fort Belvoir,38.7350941,-77.1533411,Operating,2015.0,Fairfax
+100,AWS DCA-64 Loisdale Station,38.74226677,-77.18642689,Operating,2025.0,Fairfax
+101,AWS IAD-018 John Mosby Highway,38.91918936,-77.49497537,Operating,2022.0,Loudoun
+102,AWS IAD-100 Tanner Way,38.73459785,-77.50664242,Operating,2021.0,Prince William
+103,AWS IAD-101 Tanner Way,38.73544016,-77.50569513,Operating,2021.0,Prince William
+104,AWS IAD-102 Tanner Way,38.7359701,-77.50490134,Operating,2021.0,Prince William
+105,AWS IAD-103 Tanner Way,38.73698427,-77.50407511,Operating,2023.0,Prince William
+106,AWS IAD-104 Innovation Drive,38.748398,-77.520705,Operating,2023.0,Prince William
+107,AWS IAD-105 Innovation Drive,38.747593,-77.519386,Operating,2023.0,Prince William
+108,AWS IAD-106 Innovation Drive,38.747021,-77.51855,Operating,2024.0,Prince William
+109,AWS IAD-10 Severn Way,39.02167671,-77.43291713,Operating,2012.0,Loudoun
+110,AWS IAD-114 Loudoun County Parkway,39.03549405,-77.4506986,Operating,2019.0,Loudoun
+111,AWS IAD-115 Loudoun County Parkway,39.03629405,-77.4497948,Operating,2019.0,Loudoun
+112,AWS IAD-116 Maries Rd,39.02432529,-77.420435,Operating,2019.0,Loudoun
+113,AWS IAD-117 Maries Rd,39.02364008,-77.41908274,Operating,2019.0,Loudoun
+114,AWS IAD-118 Charles View,39.01850855,-77.43883615,Operating,2020.0,Loudoun
+115,AWS IAD-118 Maries Rd,39.02294092,-77.4167065,Under Construction,2026.0,Loudoun
+116,AWS IAD-119 Charles View,39.0169314,-77.4393886,Operating,2020.0,Loudoun
+117,AWS IAD-11 Mason King Court,38.7903438,-77.54118715,Operating,2012.0,Prince William
+118,AWS IAD-120 Erins Run Drive,38.95791655,-77.4980579,Operating,2023.0,Loudoun
+119,AWS IAD-121 Erins Run Drive,38.9567768,-77.4977837,Operating,2023.0,Loudoun
+120,AWS IAD-122 Erins Run Drive,38.95587075,-77.4971865,Operating,2023.0,Loudoun
+121,AWS IAD-124 Quail Ridge,38.94989545,-77.5604517,Operating,2025.0,Loudoun
+122,AWS IAD-125 Quail Ridge,38.9480895,-77.5605449,Operating,2025.0,Loudoun
+123,AWS IAD-126 Quail Ridge,38.94995051,-77.55902887,Operating,2025.0,Loudoun
+124,AWS IAD-127 Quail Ridge,38.94802561,-77.55915211,Operating,2025.0,Loudoun
+125,AWS IAD-129 Charles View,39.01608025,-77.43838185,Operating,2020.0,Loudoun
+126,AWS IAD-12 Dulles Summit,38.98872395,-77.447671,Operating,2012.0,Loudoun
+127,AWS IAD-130 Freedom Center,38.76021216,-77.51893972,Operating,2020.0,Prince William
+128,AWS IAD-131 Freedom Center,38.7609665,-77.51844836,Operating,2020.0,Prince William
+129,AWS IAD-132 Thomasson Barn Road,38.74384399,-77.53051372,Operating,2019.0,Prince William
+130,AWS IAD-133 Thomasson Barn Road,38.74405917,-77.52985457,Operating,2020.0,Prince William
+131,AWS IAD-134 Avion,38.90454295,-77.45267338,Operating,2023.0,Fairfax
+132,AWS IAD-135 Avion,38.90492701,-77.45381063,Operating,2023.0,Fairfax
+133,AWS IAD-136 Avion,38.903,-77.452,Planned,,Fairfax
+134,AWS IAD-140 Platform Plaza,38.98145515,-77.41755015,Operating,2021.0,Loudoun
+135,AWS IAD-141 Platform Plaza,38.9823877,-77.41678575,Operating,2021.0,Loudoun
+136,AWS IAD-142 Optics Plaza,38.979147,-77.419905,Operating,2023.0,Loudoun
+137,AWS IAD-143 Optics Plaza,38.9795634,-77.41749155,Operating,2023.0,Loudoun
+138,AWS IAD-144 International Dr,38.98162903,-77.42737744,Operating,2018.0,Loudoun
+139,AWS IAD-145 International Dr,38.98254915,-77.4246233,Operating,2019.0,Loudoun
+140,AWS IAD-146 Kipper Drive,38.99672105,-77.43559715,Operating,2020.0,Loudoun
+141,AWS IAD-147 Kipper Drive,38.9950101,-77.4353604,Operating,2020.0,Loudoun
+142,AWS IAD-14 Brewers Spring,38.78993178,-77.54821679,Operating,2014.0,Prince William
+143,AWS IAD-150 Sutton Bay Plaza,38.9160727,-77.4772491,Operating,2020.0,Loudoun
+144,AWS IAD-151 Sutton Bay Plaza,38.9161469,-77.4786956,Operating,2020.0,Loudoun
+145,AWS IAD-152 Sutton Bay Plaza,38.9165716,-77.479733,Operating,2021.0,Loudoun
+146,AWS IAD-155 Clubber Lane,38.9159035,-77.49055095,Operating,2022.0,Loudoun
+147,AWS IAD-156 Lone Cedar Lane,38.92128063,-77.48581435,Operating,2022.0,Loudoun
+148,AWS IAD-157 Meadowdale Drive,38.92062188,-77.48382144,Under Construction,2026.0,Loudoun
+149,AWS IAD-158 Meadowdale Drive,38.92191642,-77.48364504,Under Construction,2026.0,Loudoun
+150,AWS IAD-159 Meadowdale Drive,38.92300089,-77.48358759,Under Construction,2027.0,Loudoun
+151,AWS IAD-15 Dulles Summit,38.991708,-77.44856405,Operating,2014.0,Loudoun
+152,AWS IAD-161 Import Plaza,38.9966044,-77.4732601,Operating,2022.0,Loudoun
+153,AWS IAD-162 Import Plaza,38.9958502,-77.4712939,Operating,2023.0,Loudoun
+154,AWS IAD-163 Atlantic Boulevard,39.03230535,-77.4297021,Operating,2023.0,Loudoun
+155,AWS IAD-164 Atlantic Boulevard,39.0304712,-77.4289455,Operating,2023.0,Loudoun
+156,AWS IAD-165,38.9228,-77.4279,Operating,2024.0,Fairfax
+157,AWS IAD-166,38.9211,-77.4266,Operating,2024.0,Fairfax
+158,AWS IAD-167,38.9227,-77.4263,Operating,2025.0,Fairfax
+159,AWS IAD-168,38.9231,-77.425,Operating,2026.0,Fairfax
+160,AWS IAD-169,39.015885,-77.4531399,Operating,2024.0,Loudoun
+161,AWS IAD-16 Dulles Summit,38.99068645,-77.4488397,Operating,2014.0,Loudoun
+162,AWS IAD-170 Reeds Farm,38.94445015,-77.54935793,Under Construction,2026.0,Loudoun
+163,AWS IAD-174 Atlantic Boulevard,39.02891435,-77.4274784,Operating,2023.0,Loudoun
+164,AWS IAD-175 International Dr,38.9799017,-77.42549176,Operating,2021.0,Loudoun
+165,AWS IAD-179,39.0167452,-77.4520059,Under Construction,2026.0,Loudoun
+166,AWS IAD-180 Light Speed Plaza,38.98110593,-77.49422246,Under Construction,2026.0,Loudoun
+167,AWS IAD-181 Light Speed Plaza,38.97944636,-77.49328754,Under Construction,2026.0,Loudoun
+168,AWS IAD-182 Light Speed Plaza,38.98065681,-77.49568121,Under Construction,2027.0,Loudoun
+169,AWS IAD-183 Light Speed Plaza,38.97892796,-77.49472002,Planned,2027.0,Loudoun
+170,AWS IAD-193 Wellington Road,38.77705673,-77.55690322,Operating,2026.0,Prince William
+171,AWS IAD-194 Wellington Road,38.77595681,-77.55724839,Under Construction,2026.0,Prince William
+172,AWS IAD-195 Village Place Tech Park,38.80284282,-77.62202252,Operating,2024.0,Prince William
+173,AWS IAD-196 Village Place Tech Park,38.80191241,-77.62096013,Under Construction,2027.0,Prince William
+174,AWS IAD-197 Village Place Tech Park,38.80137105,-77.62028596,Under Construction,2027.0,Prince William
+175,AWS IAD-198 Village Place Tech Park,38.79983545,-77.62005346,Under Construction,2027.0,Prince William
+176,AWS IAD-205 Dean Drive,38.7495225,-77.4930233,Under Construction,2026.0,Manassas City
+177,AWS IAD-214 Pacific Blvd,38.9865317,-77.4351775,Operating,2025.0,Loudoun
+178,AWS IAD-224 Sudley Manor,38.76499,-77.54186,Planned,,Prince William
+179,AWS IAD-24 Mason King Court,38.79035,-77.540006,Operating,2012.0,Prince William
+180,AWS IAD-327 Meadowdale Drive,38.92119,-77.4815578,Under Construction,2027.0,Loudoun
+181,AWS IAD-329 Hazel Park Court,38.884619,-77.430594,Planned,,Fairfax
+182,AWS IAD-32 Squire Court,39.02152866,-77.43475817,Operating,2014.0,Loudoun
+183,AWS IAD 350 Potomac Church,38.4108039,-77.4062673,Operating,2026.0,Stafford
+184,AWS IAD 351 Potomac Church,38.4110461,-77.4045718,Under Construction,2027.0,Stafford
+185,AWS IAD-50 Smith Switch,39.02956155,-77.4596546,Operating,2014.0,Loudoun
+186,AWS IAD-51 Prologis Plaza,38.9914124,-77.4365107,Operating,2015.0,Loudoun
+187,AWS IAD-52 Brewers Spring,38.79106882,-77.54837196,Operating,2014.0,Prince William
+188,AWS IAD-550 Lake Anna - Building 1,38.048475,-77.813305,Operating,2026.0,Louisa
+189,AWS IAD-550 Lake Anna - Building 2,38.049825,-77.811164,Under Construction,2026.0,Louisa
+190,AWS IAD-550 Lake Anna - Building 3,38.048779,-77.810616,Under Construction,2027.0,Louisa
+191,AWS IAD-550 Lake Anna - Building 4,38.04935,-77.808139,Under Construction,2027.0,Louisa
+192,AWS IAD-550 Lake Anna - Building 5,38.047615,-77.809247,Under Construction,2027.0,Louisa
+193,AWS IAD-550 Lake Anna - Building 6,38.046612,-77.811177,Under Construction,2027.0,Louisa
+194,AWS IAD-550 Lake Anna - Building 7,38.047302,-77.81256,Under Construction,2027.0,Louisa
+195,AWS IAD-55 John Marshall Highway,38.81517405,-77.64867969,Operating,2017.0,Prince William
+196,AWS IAD-56 Prologis Plaza,38.9905701,-77.4370586,Operating,2015.0,Loudoun
+197,AWS IAD-57 Relocation Drive,38.9869931,-77.4426325,Operating,2015.0,Loudoun
+198,AWS IAD-58 Relocation Drive,38.9863003,-77.4418855,Operating,2015.0,Loudoun
+199,AWS IAD-59 Doane Drive,38.792226,-77.54844964,Operating,2014.0,Prince William
+200,AWS IAD-603 Platform Plaza,38.9815444,-77.41936115,Operating,2023.0,Loudoun
+201,AWS IAD-60 Smith Switch,39.0287737,-77.4582461,Operating,2015.0,Loudoun
+202,AWS IAD-612 Technology Drive,38.7465937,-77.4972223,Under Construction,2026.0,Manassas City
+203,AWS IAD-612x Technology Drive,38.7476689,-77.4947425,Under Construction,2026.0,Manassas City
+204,AWS IAD-61 Clubber Lane,38.91580515,-77.49198695,Operating,2018.0,Loudoun
+205,AWS IAD-62 Fadeley,38.9493,-77.5198187,Operating,2016.0,Loudoun
+206,AWS IAD-63 Clubber Lane,38.9168847,-77.4932514,Operating,2019.0,Loudoun
+207,AWS IAD-64 John Marshall Highway,38.8151324,-77.65291935,Operating,2017.0,Prince William
+208,AWS IAD-65 Prediction Lane,38.91701075,-77.49436645,Operating,2021.0,Loudoun
+209,AWS IAD-68 Fadeley,38.94863,-77.5209323,Operating,2018.0,Loudoun
+210,AWS IAD-71 Smith Switch,39.0279064,-77.45749975,Operating,2015.0,Loudoun
+211,AWS IAD-73 Wellington Road,38.77797946,-77.55909921,Operating,2016.0,Prince William
+212,AWS IAD-74 Wellington Road,38.77743694,-77.55789122,Operating,2016.0,Prince William
+213,AWS IAD-75 Bethlehem Road,38.77937016,-77.54171295,Operating,2017.0,Prince William
+214,AWS IAD-76 Randolph Dr,38.9937936,-77.45050905,Operating,2016.0,Loudoun
+215,AWS IAD-78 Interconnection,39.02636805,-77.4495202,Operating,2017.0,Loudoun
+216,AWS IAD-79 Interconnection,39.0263574,-77.45087035,Operating,2017.0,Loudoun
+217,AWS IAD-7 Mason King Court,38.79125396,-77.53829389,Operating,2010.0,Prince William
+218,AWS IAD-80 Interconnection,39.02710865,-77.45282885,Operating,2017.0,Loudoun
+219,AWS IAD-81 Fadeley,38.948276,-77.5217864,Operating,2019.0,Loudoun
+220,AWS IAD-83 Fadeley,38.9479334,-77.5231741,Operating,2021.0,Loudoun
+221,AWS IAD-84 John Marshall Highway,38.81610312,-77.65249935,Operating,2021.0,Prince William
+222,AWS IAD-85 Bethlehem Road,38.77932741,-77.54278299,Operating,2017.0,Prince William
+223,AWS IAD-86 Prediction Lane,38.9172562,-77.49567435,Operating,2022.0,Loudoun
+224,AWS IAD-88 Loudoun Downs,38.99174964,-77.44101038,Operating,2017.0,Loudoun
+225,AWS IAD-89 Loudoun Downs,38.9908897,-77.4417237,Operating,2017.0,Loudoun
+226,AWS IAD-90 Pathfinder Plaza,38.9886031,-77.41165165,Operating,2019.0,Loudoun
+227,AWS IAD-91 Pathfinder Plaza,38.98784715,-77.41111915,Operating,2019.0,Loudoun
+228,AWS IAD-92 Pathfinder Plaza,38.9869426,-77.4104754,Operating,2019.0,Loudoun
+229,AWS IAD-94 John Marshall Highway,38.81696824,-77.65215914,Operating,2024.0,Prince William
+230,AWS IAD-95 Bethlehem Road,38.77858219,-77.53940914,Operating,2017.0,Prince William
+231,AWS IAD-96 Bethlehem Road,38.78018362,-77.53979469,Operating,2020.0,Prince William
+232,AWS IAD 9740 Innovation Drive,38.746172,-77.517128,Operating,2024.0,Prince William
+233,AWS IAD-98 Severn Way,39.0202249,-77.43388569,Operating,2018.0,Loudoun
+234,AWS IAD-99 Severn Way,39.01916895,-77.43402985,Operating,2018.0,Loudoun
+235,AWS IAD-9 Westfax,38.89959217,-77.45343897,Operating,2011.0,Fairfax
+236,AWS Manekin Plaza,39.02377354,-77.40789059,Planned,,Loudoun
+237,AWS Nokes Boulevard,39.02239824,-77.41006855,Planned,,Loudoun
+238,AWS Parsons Business Park - Building 1,38.6440167,-77.4394865,Planned,,Prince William
+239,AWS Parsons Business Park - Building 2,38.6439811,-77.4367526,Planned,,Prince William
+240,AWS Parsons Business Park - Building 3,38.6459328,-77.4393694,Planned,,Prince William
+241,AWS Parsons Business Park - Building 4,38.6461342,-77.4419408,Planned,,Prince William
+242,AWS Parsons Business Park - Building 5,38.6447912,-77.4419442,Planned,,Prince William
+243,AWS Project Well - Building A,38.78063,-77.56294,Planned,,Prince William
+244,AWS Project Well - Building B,38.77849,-77.56441,Planned,,Prince William
+245,AWS Ridgetop Circle Building 1,39.02544075,-77.40966722,Planned,,Loudoun
+246,AWS Ridgetop Circle Building 2,39.02544075,-77.40966722,Planned,,Loudoun
+247,AWS Warrenton - Building 1,38.72947429,-77.7875309,Planned,,Fauquier
+248,AWS Westfax 4-5A,38.898617,-77.454205,Planned,2027.0,Fairfax
+249,AWS Wilderness Crossing,38.33,-77.74,Planned,,Orange
+250,Gainesville East - Building 1,38.789307,-77.58191,Under Construction,2026.0,Prince William
+251,Gainesville East - Building 2,38.789471,-77.579838,Under Construction,2026.0,Prince William
+252,Gainesville East - Building 3,38.790753,-77.580779,Planned,2027.0,Prince William
+253,Gainesville East - Building 4,38.791084,-77.582578,Planned,2027.0,Prince William
+254,Louisa County Campus 3,38.018072,-77.93566,Canceled,,Louisa
+255,Avaio Digital Appomattox,37.36928208,-78.8492204,Planned,,Appomattox
+256,Farmville Data Hub,37.29433055,-78.3451251,Planned,,Prince Edward
+257,Bank of America Sandston,37.494407,-77.2375,Operating,2014.0,Henrico
+258,Bank of America Villa Park,37.6307,-77.4655,Operating,2006.0,Henrico
+259,BlackChamber Brambleton - Building A (AWS IAD-295),38.957404,-77.535894,Under Construction,2027.0,Loudoun
+260,BlackChamber Brambleton - Building B,38.956652,-77.533279,Under Construction,2027.0,Loudoun
+261,BlackChamber Brambleton - Building C,38.95544,-77.534,Under Construction,2027.0,Loudoun
+262,BlackChamber Brambleton - Building D,38.95601,-77.53608,Planned,2028.0,Loudoun
+263,BlackChamber Bristow Industrial Park - Building 1,38.781103,-77.579791,Planned,,Prince William
+264,BlackChamber Bristow Industrial Park - Building 2,38.780052,-77.580623,Planned,,Prince William
+265,BlackChamber Dean Drive Data Center,38.74713,-77.50139,Planned,,Manassas City
+266,BlackChamber Dulles 2000 - Building 1,38.9755,-77.4258,Canceled,,Loudoun
+267,BlackChamber Dulles 2000 - Building 2,38.9755,-77.4275,Canceled,,Loudoun
+268,BlackChamber Dulles 28 - Building 1 (AWS IAD-243),39.00993701,-77.44150603,Under Construction,2026.0,Loudoun
+269,BlackChamber Dulles 28 - Building 2 (AWS IAD-244),39.00813162,-77.44312337,Under Construction,2027.0,Loudoun
+270,BlackChamber Gainesville Tech Park - Building 1,38.78163,-77.57385,Planned,,Prince William
+271,BlackChamber Gainesville Tech Park - Building 2,38.77993,-77.57506,Planned,,Prince William
+272,BlackChamber Gainesville Tech Park - Building 3,38.781894,-77.571262,Planned,,Prince William
+273,BlackChamber Gainesville Tech Park - Building 4,38.781228,-77.571633,Planned,,Prince William
+274,BlackChamber Hansen Farm North Data Center,38.788099,-77.558614,Planned,,Prince William
+275,BlackChamber Hansen Farm South Data Center,38.785155,-77.566639,Planned,,Prince William
+276,BlackChamber John Marshall Commons Tech Park - Building 1,38.804676,-77.616303,Canceled,,Prince William
+277,BlackChamber John Marshall Commons Tech Park - Building 2,38.803291,-77.617514,Canceled,,Prince William
+278,BlackChamber Paragon Park III - Building 1,39.015524,-77.434125,Planned,,Loudoun
+279,BlackChamber Paragon Park III - Building 2,39.015693,-77.43543,Planned,,Loudoun
+280,BlackChamber Project Gulfstream - Building A,38.72759,-77.50472,Planned,,Prince William
+281,BlackChamber Project Gulfstream - Building B,38.72521,-77.50183,Planned,,Prince William
+282,BlackChamber Project Gulfstream - Building C,38.72459,-77.50412,Planned,,Prince William
+283,BlackChamber Project Gulfstream - Building D,38.724123,-77.506283,Planned,,Prince William
+284,BlackChamber Rose East A,38.782817,-77.560528,Planned,,Prince William
+285,BlackChamber Rose East B,38.783819,-77.560118,Planned,,Prince William
+286,BlackChamber Rose West,38.785357,-77.562558,Planned,,Prince William
+287,BlackChamber Tuscarora Crossing - Building 1,39.0774,-77.5333,Planned,2028.0,Loudoun
+288,BlackChamber Tuscarora Crossing - Building 2,39.07671,-77.53543,Planned,2029.0,Loudoun
+289,Capital One Knolls 2 Data Center,37.66987,-77.56562,Operating,2001.0,Henrico
+290,Middletown Data Center - Building 1,39.017488,-78.291303,Operating,2022.0,Frederick
+291,Centersquare IAD1-A 45901 Nokes Boulevard,39.0232978,-77.4132123,Operating,1998.0,Loudoun
+292,Centersquare IAD1-B 45845 Nokes Boulevard,39.0238679,-77.4152091,Operating,1999.0,Loudoun
+293,Centersquare IAD1-C 21110 Ridgetop Circle,39.02475405,-77.41220435,Operating,2008.0,Loudoun
+294,Centersquare IAD2-A 22810 International Drive,38.98441985,-77.42380955,Operating,2001.0,Loudoun
+295,Centersquare IAD2-B 22860 International Drive,38.98361385,-77.42408485,Operating,2001.0,Loudoun
+296,Centersquare IAD3 22995 Wilder Court,38.9809293,-77.44437855,Operating,2003.0,Loudoun
+297,Centersquare IAD4-A 21561 Beaumeade Circle,39.02178165,-77.45279785,Operating,2007.0,Loudoun
+298,Centersquare IAD4-B 21571 Beaumeade Circle,39.02216785,-77.45359465,Operating,2000.0,Loudoun
+299,Chirisa CTP-01,37.36006,-77.3271,Operating,2014.0,Chesterfield
+300,Chirisa CTP 04/05/06,37.3584032,-77.3241147,Planned,2028.0,Chesterfield
+301,CleanArc VA1 Campus,,,Planned,,Caroline
+302,CloudHQ CLP1,38.462488,-77.979736,Planned,2028.0,Culpeper
+303,CloudHQ CLP2,38.460668,-77.979285,Planned,2028.0,Culpeper
+304,CloudHQ CLP3,38.460152,-77.977478,Planned,2028.0,Culpeper
+305,CloudHQ LC10,39.003681,-77.472448,Planned,,Loudoun
+306,CloudHQ LC11,39.006648,-77.477644,Under Construction,2027.0,Loudoun
+307,CloudHQ LC12,39.005317,-77.478557,Planned,,Loudoun
+308,CloudHQ LC13,39.004824,-77.476731,Planned,,Loudoun
+309,CloudHQ LC14,39.006098,-77.476042,Planned,,Loudoun
+310,CloudHQ LC1A,39.0104478,-77.4636146,Operating,,Loudoun
+311,CloudHQ LC1B,39.0100005,-77.4617314,Operating,,Loudoun
+312,CloudHQ LC2,39.011764,-77.462457,Operating,,Loudoun
+313,CloudHQ LC3,39.011212,-77.460405,Operating,2025.0,Loudoun
+314,CloudHQ LC4,39.002365,-77.471752,Operating,2025.0,Loudoun
+315,CloudHQ LC5,39.009745,-77.476825,Planned,,Loudoun
+316,CloudHQ LC8,39.001959,-77.469095,Under Construction,2027.0,Loudoun
+317,CloudHQ LC9,39.003377,-77.470306,Planned,,Loudoun
+318,CloudHQ MCC1,38.716574897269304,-77.50054304120745,Operating,2017.0,Prince William
+319,CloudHQ MCC2,38.72327559117653,-77.49897169818051,Operating,2021.0,Prince William
+320,CloudHQ MCC3,38.71991,-77.49301,Planned,2028.0,Prince William
+321,CloudHQ MCC4,38.71872,-77.49629,Under Construction,2027.0,Prince William
+322,CloudHQ MCC5,38.71342,-77.50007,Planned,2028.0,Prince William
+323,CloudHQ MCC6A,38.71508643066773,-77.49476365680592,Operating,2022.0,Prince William
+324,CloudHQ MCC6B,38.7153891031921,-77.49603876903012,Planned,2028.0,Prince William
+325,CloudHQ MCC6C,38.71573175154594,-77.4969538733279,Planned,2028.0,Prince William
+326,CloudHQ MCC7,38.72105,-77.50024,Planned,2026.0,Prince William
+327,CloudHQ MCC8,38.717734,-77.493979,Planned,,Prince William
+328,CloudHQ MDC1,38.73077,-77.50814,Under Construction,2027.0,Prince William
+329,CloudHQ MDC2,38.73229,-77.50981,Under Construction,2027.0,Prince William
+330,CloudHQ MDC3,38.73377,-77.51167,Planned,2028.0,Prince William
+331,COPT DC-6 (AWS IAD77),38.747279,-77.531845,Operating,2009.0,Prince William
+332,Cologix ASH1,39.018005,-77.459315,Operating,2023.0,Loudoun
+333,Cologix ASH2,39.01934,-77.458,Planned,2028.0,Loudoun
+334,Cologix Guilford Drive - Future Expansion,39.024737,-77.45979,Planned,,Loudoun
+335,Cologix Guilford Drive - Phase I,39.024437,-77.459989,Planned,2031.0,Loudoun
+336,Compass IAD IA,39.044095,-77.539717,Operating,2022.0,Loudoun
+337,Compass IAD IB,39.043501,-77.540837,Operating,2022.0,Loudoun
+338,Compass IAD IC,39.041671,-77.539221,Operating,2023.0,Loudoun
+339,Compass IAD ID,39.042494,-77.538293,Operating,2023.0,Loudoun
+340,Compass IAD IE,39.044349,-77.538133,Operating,2025.0,Loudoun
+341,Compass Prince William Digital Gateway,38.83419,-77.57867,Canceled,,Prince William
+342,COPT Park Center,38.876472,-77.463189,Operating,2022.0,Fairfax
+343,CoreSite VA1,38.950606,-77.36455,Operating,2008.0,Fairfax
+344,CoreSite VA2,38.951455,-77.363999,Operating,2015.0,Fairfax
+345,CoreSite VA3,38.948468,-77.37237,Operating,2016.0,Fairfax
+346,CoreSite VA3-2,38.94796,-77.37161,Under Construction,2027.0,Fairfax
+347,CoreSite VA3 Phases 3-4,38.94931,-77.37243,Planned,,Fairfax
+348,Corscale Gainesville Crossing GCDC1,38.80251062876824,-77.5823887783089,Operating,2024.0,Prince William
+349,Corscale Gainesville Crossing GCDC2,38.79994666564604,-77.5834092466098,Operating,2026.0,Prince William
+350,Corscale Gainesville Crossing GCDC3,38.79956791576149,-77.58063110648109,Operating,2026.0,Prince William
+351,Corscale Gainesville Crossing GCDC4,38.800684120294534,-77.57763899286154,Under Construction,2028.0,Prince William
+352,Corscale Gainesville Crossing GCDC5,38.80366274825903,-77.57753434697644,Planned,2028.0,Prince William
+353,Corscale Kincora VA2,39.0377072,-77.43347908,Planned,2028.0,Loudoun
+354,Crusoe Summit View Business Park (Project Flash),37.078221,-79.925483,Canceled,,Franklin
+355,CyrusOne Broadlands - Building 1,39.0355,-77.524,Planned,,Loudoun
+356,CyrusOne Broadlands - Building 2,39.035,-77.5213,Planned,,Loudoun
+357,CyrusOne Broadlands - Building 3,39.0335,-77.5228,Planned,,Loudoun
+358,CyrusOne Broadlands - Building 4,39.0321,-77.5241,Planned,,Loudoun
+359,CyrusOne Broadlands - Building 5,39.0318,-77.5212,Planned,,Loudoun
+360,CyrusOne NVA10,38.958969,-77.5061194,Under Construction,2026.0,Loudoun
+361,CyrusOne NVA1-3,39.025947,-77.414523,Operating,2017.0,Loudoun
+362,CyrusOne NVA14,39.019601,-77.450121,Operating,2026.0,Loudoun
+363,CyrusOne NVA4,38.984887,-77.425649,Operating,2017.0,Loudoun
+364,CyrusOne NVA5,39.024327,-77.434034,Operating,2019.0,Loudoun
+365,CyrusOne NVA7,39.026301,-77.434028,Operating,2020.0,Loudoun
+366,CyrusOne NVA8,39.021167,-77.41322,Operating,2024.0,Loudoun
+367,CyrusOne NVA9,38.9579581,-77.5054503,Operating,2021.0,Loudoun
+368,DataBank IAD1,39.015485,-77.481724,Operating,2010.0,Loudoun
+369,DataBank IAD2,38.919905,-77.213585,Operating,1998.0,Fairfax
+370,DataBank IAD3,39.017873,-77.48182,Operating,2023.0,Loudoun
+371,DataBank IAD4,39.015654,-77.48331,Operating,2026.0,Loudoun
+372,DataBank IAD5,38.448622,-77.978962,Under Construction,2028.0,Culpeper
+373,DataBank IAD6,38.45092,-77.979131,Planned,2029.0,Culpeper
+374,DBT Data Cyber Integration Center,38.462545,-78.856797,Operating,2010.0,Harrisonburg City
+375,DC Blox Richmond Data Center,37.607296,-77.42084,Under Construction,2027.0,Henrico
+376,Digital Dulles - Building 1,38.953768,-77.489933,Planned,2032.0,Loudoun
+377,Digital Dulles - Building 10,38.961703,-77.48678,Planned,2028.0,Loudoun
+378,Digital Dulles - Building 11,38.96195,-77.484403,Planned,2029.0,Loudoun
+379,Digital Dulles - Building 12,38.964414,-77.486796,Planned,2028.0,Loudoun
+380,Digital Dulles - Building 13,38.966336,-77.486907,Planned,2029.0,Loudoun
+381,Digital Dulles - Building 2,38.95431,-77.488048,Planned,2032.0,Loudoun
+382,Digital Dulles - Building 3,38.954902,-77.485908,Planned,2031.0,Loudoun
+383,Digital Dulles - Building 4,38.955407,-77.484197,Planned,2031.0,Loudoun
+384,Digital Dulles - Building 5,38.957858,-77.492003,Planned,2028.0,Loudoun
+385,Digital Dulles - Building 8,38.959941,-77.488602,Under Construction,2026.0,Loudoun
+386,Digital Realty 43790 Devin Shafron Dr (AWS IAD-13),39.00501674,-77.48549452,Operating,2011.0,Loudoun
+387,Digital Realty 43831 Devin Shafron Drive (AWS IAD-6),39.0026917,-77.48534609,Operating,2001.0,Loudoun
+388,Digital Realty 43915 Devin Shafron Drive (Building A),39.002755,-77.481954,Operating,2010.0,Loudoun
+389,Digital Realty ACC10,39.012707,-77.465536,Operating,2018.0,Loudoun
+390,Digital Realty ACC11,39.015092,-77.463475,Planned,2028.0,Loudoun
+391,Digital Realty ACC2,39.02153,-77.45933,Operating,2005.0,Loudoun
+392,Digital Realty ACC3,39.019936,-77.459842,Operating,2006.0,Loudoun
+393,Digital Realty ACC4,39.017902,-77.462549,Operating,2007.0,Loudoun
+394,Digital Realty ACC5,39.020113,-77.463071,Operating,2009.0,Loudoun
+395,Digital Realty ACC6,39.021068,-77.46359,Operating,2011.0,Loudoun
+396,Digital Realty ACC7,39.017532,-77.465643,Operating,2014.0,Loudoun
+397,Digital Realty ACC9,39.015466,-77.467319,Operating,2017.0,Loudoun
+398,Digital Realty IAD12,39.002022,-77.483345,Operating,2009.0,Loudoun
+399,Digital Realty IAD14,39.00329462,-77.48721424,Operating,2009.0,Loudoun
+400,Digital Realty IAD24,39.004292,-77.484355,Operating,2012.0,Loudoun
+401,Digital Realty IAD35,39.000511,-77.480595,Operating,2013.0,Loudoun
+402,Digital Realty IAD36,39.001552,-77.479344,Operating,2017.0,Loudoun
+403,Digital Realty IAD37,39.00001,-77.47807,Operating,2015.0,Loudoun
+404,Digital Realty IAD38,39.00111,-77.477184,Operating,2016.0,Loudoun
+405,Digital Realty IAD39,39.007718,-77.467623,Operating,2019.0,Loudoun
+406,Digital Realty IAD40,39.006244,-77.468289,Operating,2019.0,Loudoun
+407,Digital Realty IAD41,39.008677,-77.458221,Operating,2020.0,Loudoun
+408,Digital Realty IAD42,39.005719,-77.449449,Operating,2022.0,Loudoun
+409,Digital Realty IAD43,39.001754,-77.452708,Operating,2025.0,Loudoun
+410,Digital Realty IAD44,38.960791,-77.491407,Operating,2023.0,Loudoun
+411,Digital Realty IAD45,38.962479,-77.489886,Operating,2026.0,Loudoun
+412,Digital Realty IAD50 - 10050 Brickyard Way,38.73829766,-77.50902962,Under Construction,2027.0,Prince William
+413,Digital Realty IAD51 - 10051 Brickyard Way,38.73692557,-77.50782982,Operating,2025.0,Prince William
+414,Digital Realty IAD53 - 9905 Godwin Drive,38.74038525,-77.5039772,Operating,2024.0,Prince William
+415,Digital Realty IAD54,38.9922596,-77.433964,Operating,2024.0,Loudoun
+416,Digital Realty IAD56,39.0139318,-77.4565,Under Construction,2026.0,Loudoun
+417,Digital Realty IAD57,38.958142,-77.490092,Planned,2027.0,Loudoun
+418,Digital Realty IAD73,39.006626,-77.466409,Operating,2023.0,Loudoun
+419,Digital Realty VA3,38.948464,-77.327295,Operating,2003.0,Fairfax
+420,Digital Realty VA4,38.7779246470244,-77.59511824767937,Operating,2005.0,Prince William
+421,Digital Realty VA5,38.77732,-77.5959,Planned,,Prince William
+422,Sterling Premier Building A (AWS IAD-192),38.98956,-77.4348017,Operating,2024.0,Loudoun
+423,Flex Data Center (Edge Centres EC104),38.95194,-77.34621,Operating,2007.0,Fairfax
+424,EdgeConneX NOR01,36.861754,-76.235973,Operating,2014.0,Norfolk
+425,EdgeConneX RIC01,37.638568,-77.466797,Operating,2015.0,Henrico
+426,EdgeCore Ashburn AS01,39.02181203,-77.41467584,Under Construction,2027.0,Loudoun
+427,EdgeCore Ashburn AS02,38.99504329,-77.44605586,Under Construction,2027.0,Loudoun
+428,EdgeCore Culpeper - Building 1,38.465733,-77.96567,Planned,2029.0,Culpeper
+429,EdgeCore Culpeper - Building 2,38.46882,-77.96029,Planned,2030.0,Culpeper
+430,EdgeCore Shannon Hill - Building 1,37.903723,-78.018126,Planned,,Louisa
+431,EdgeCore Shannon Hill - Building 2,37.902645,-78.022873,Planned,,Louisa
+432,EdgeCore Shannon Hill - Building 3,37.897309,-78.016937,Planned,,Louisa
+433,EdgeCore Shannon Hill - Building 4,37.900756,-78.02913,Planned,,Louisa
+434,EdgeCore Shannon Hill - Building 5,37.898702,-78.024114,Planned,,Louisa
+435,EdgeCore Shannon Hill - Building 6,37.894806,-78.026183,Planned,,Louisa
+436,Equinix CU1,38.455989,-77.977131,Operating,2009.0,Culpeper
+437,Equinix CU2,38.4551243,-77.9782074,Operating,2010.0,Culpeper
+438,Equinix CU3,38.4554867,-77.9764322,Operating,2010.0,Culpeper
+439,Equinix CU4,38.4540945,-77.9786614,Operating,2015.0,Culpeper
+440,Equinix DC1,39.01556,-77.460327,Operating,2006.0,Loudoun
+441,Equinix DC10,39.021014,-77.451513,Operating,2012.0,Loudoun
+442,Equinix DC11,39.014931,-77.458804,Operating,2013.0,Loudoun
+443,Equinix DC12,39.023007,-77.449758,Operating,2018.0,Loudoun
+444,Equinix DC13,39.012537,-77.475393,Operating,2000.0,Loudoun
+445,Equinix DC14,38.8033294816541,-77.5108797169217,Operating,2008.0,Prince William
+446,Equinix DC15,39.0225,-77.450256,Operating,2019.0,Loudoun
+447,Equinix DC16,39.024257,-77.452327,Operating,2024.0,Loudoun
+448,Equinix DC17,39.024918,-77.453407,Under Construction,2027.0,Loudoun
+449,Equinix DC18,39.025344,-77.454148,Planned,2029.0,Loudoun
+450,Equinix DC2,39.016471,-77.459006,Operating,2000.0,Loudoun
+451,Equinix DC21,39.0118065,-77.4545558,Operating,2022.0,Loudoun
+452,Equinix DC22,39.0137247,-77.4538002,Operating,2025.0,Loudoun
+453,Equinix DC23,39.0112,-77.453277,Planned,,Loudoun
+454,Equinix DC3,39.021948,-77.460287,Operating,2005.0,Loudoun
+455,Equinix DC4,39.016408,-77.461887,Operating,2008.0,Loudoun
+456,Equinix DC5,39.015987,-77.461248,Operating,2008.0,Loudoun
+457,Equinix DC6,39.015198,-77.459538,Operating,2010.0,Loudoun
+458,Equinix DC97,38.961671,-77.377431,Operating,2001.0,Fairfax
+459,Evocative IAD1,38.948816,-77.32941,Operating,2006.0,Fairfax
+460,Flexential Richmond Data Center,37.64689,-77.4387,Operating,2004.0,Henrico
+461,Fluidstack Progress Park Data Center,36.9589,-81.0075,Planned,2028.0,Wythe
+462,Gateway Commerce Center,38.165024,-77.529495,Planned,,Spotsylvania
+463,Freddie Mac Herndon Data Center,38.955213,-77.381361,Operating,2000.0,Fairfax
+464,Globalinx VA,36.82473638,-76.29968469,Planned,,Portsmouth (city)
+465,Google Arcola - Building 1,38.943016,-77.524242,Operating,2019.0,Loudoun
+466,Google Arcola - Building 2,38.941767,-77.527479,Operating,2022.0,Loudoun
+467,Google Arcola - Building 3,38.941607,-77.531957,Under Construction,2026.0,Loudoun
+468,Google Botetourt Center Campus,,,Planned,,Botetourt
+469,Google Bristow Wellington Road - Building 1,38.7918,-77.5756,Planned,2028.0,Prince William
+470,Google Bristow Wellington Road - Building 2,38.7895,-77.5748,Planned,2028.0,Prince William
+471,Google Bristow Wellington Road - Building 3,38.7905,-77.5718,Planned,2028.0,Prince William
+472,Google Bristow Wellington Road - Building 4,38.7865,-77.5742,Planned,2028.0,Prince William
+473,Google Goochland Data Center,37.640457,-77.658555,Planned,,Goochland
+474,Google Leesburg - Building 1,39.052612,-77.539577,Operating,2020.0,Loudoun
+475,Google Leesburg - Building 2,39.05059,-77.540029,Operating,2021.0,Loudoun
+476,Google Leesburg - Building 3,39.05117,-77.53471,Operating,2026.0,Loudoun
+477,Google Mango Farm - Building 1,38.77596403502838,-77.58224163235731,Operating,2024.0,Prince William
+478,Google Mango Farm - Building 2,38.775044838233185,-77.58475710015539,Operating,2025.0,Prince William
+479,Google Mango Farm - Building 3,38.77924712064747,-77.58572279784771,Under Construction,,Prince William
+480,Google Mango Farm - Building 4,38.776069044234866,-77.58820124728285,Planned,,Prince William
+481,Google Wood Haven Technology Park,37.336157,-80.003941,Planned,,Roanoke
+482,Project Peanut,37.34420372,-77.3037902,Planned,,Chesterfield
+483,King George Technology Center,38.256557,-77.29122,Planned,,King George
+484,H5 Ashburn,39.0136782,-77.4517194,Operating,2024.0,Loudoun
+485,H5 Chantilly IAD30,38.910133,-77.47258,Operating,2006.0,Fairfax
+486,H5 Chantilly IAD31,38.909245,-77.472245,Operating,2011.0,Fairfax
+487,H5 Chantilly IAD32,38.909798,-77.473466,Operating,2014.0,Fairfax
+488,H5 Herndon 470 Springpark Place,38.962338,-77.377086,Planned,2027.0,Fairfax
+489,H5 Herndon 480 Springpark Place,38.962847,-77.37678,Under Construction,2027.0,Fairfax
+490,Bogle Drive Data Center Facility,38.894118,-77.462462,Planned,,Fairfax
+491,Entre Court Data Center Facility,38.888365,-77.435831,Planned,,Fairfax
+492,Iron Mountain Manassas Point DC1,38.783656276043025,-77.53748353206956,Planned,2029.0,Prince William
+493,Iron Mountain Manassas Point DC2,38.78458256474122,-77.53586394201615,Planned,2029.0,Prince William
+494,Iron Mountain Manassas Point DC3,38.783018689000166,-77.53549399930063,Planned,2029.0,Prince William
+495,Iron Mountain RCH-1,37.497531,-77.232739,Under Construction,2028.0,Henrico
+496,Iron Mountain RCH-2 (Phase 1),37.4981,-77.234461,Planned,2028.0,Henrico
+497,Iron Mountain RCH-2 (Phase 2),37.498986,-77.233383,Planned,2029.0,Henrico
+498,Iron Mountain RCH-3 (Phase 1),37.497486,-77.235649,Planned,2028.0,Henrico
+499,Iron Mountain RCH-3 (Phase 2),37.496556,-77.23424,Planned,2029.0,Henrico
+500,Iron Mountain RCH-4 (Phase 1),37.499414,-77.241232,Planned,2028.0,Henrico
+501,Iron Mountain RCH-4 (Phase 2),37.500546,-77.23934,Planned,2029.0,Henrico
+502,Iron Mountain VA-1,38.77804577,-77.54706933,Operating,2017.0,Prince William
+503,Iron Mountain VA-2,38.77706612,-77.54646561,Operating,2019.0,Prince William
+504,Iron Mountain VA-3,38.77564579,-77.54557241,Operating,2023.0,Prince William
+505,Iron Mountain VA-4 (AWS IAD-211),38.77445311,-77.5421238,Operating,2025.0,Prince William
+506,Iron Mountain VA-5 (AWS IAD-210),38.77311786,-77.5411383,Operating,2025.0,Prince William
+507,Iron Mountain VA-6,38.76803767,-77.5384062,Operating,2024.0,Prince William
+508,Iron Mountain VA-7,38.77506417,-77.53979607,Operating,2025.0,Prince William
+509,Iron Mountain VA-8,38.772958,-77.543352,Under Construction,2028.0,Prince William
+510,Iron Mountain VA-9 (Phase 1),38.7719,-77.542539,Under Construction,2026.0,Prince William
+511,Iron Mountain VA-9 (Phase 2),38.772263,-77.542799,Under Construction,2027.0,Prince William
+512,Iron Mountain VA - Future Phases,,,Planned,,Prince William
+513,Belmont Route 7 - Building 1,39.0755,-77.4945,Planned,2029.0,Loudoun
+514,Belmont Route 7 - Building 2,39.0748,-77.492,Planned,2029.0,Loudoun
+515,Greenlin Park data center,39.056977,-77.563019,Planned,,Loudoun
+516,Innovation on the Parkway,38.753802215700865,-77.52496278915665,Planned,,Prince William
+517,TELOS Data Center,39.067024,-77.47857,Planned,,Loudoun
+518,Kettler Crossroads Technology - Building 1,38.229549,-77.446798,Planned,2031.0,Spotsylvania
+519,Kettler Crossroads Technology - Building 2,38.230282,-77.448256,Planned,2031.0,Spotsylvania
+520,Kettler Crossroads Technology - Building 3,38.231928,-77.446088,Planned,2032.0,Spotsylvania
+521,Kettler Crossroads Technology - Building 4,38.231515,-77.450542,Planned,2032.0,Spotsylvania
+522,Kettler Crossroads Technology - Building 5,38.232315,-77.44869,Planned,2033.0,Spotsylvania
+523,Kettler Crossroads Technology - Building 6,38.233085,-77.448571,Planned,2033.0,Spotsylvania
+524,Kettler Crossroads Technology - Building 7,38.234858,-77.456613,Planned,2034.0,Spotsylvania
+525,LS Power Doswell Data Center,37.8102866,-77.4484823,Canceled,,Hanover
+526,Lumen Herndon 1,38.966086,-77.381851,Operating,2001.0,Fairfax
+527,Lumen Herndon 3,38.965939,-77.38174,Operating,2014.0,Fairfax
+528,Lumen McLean 1,38.920021,-77.211619,Operating,1998.0,Fairfax
+529,Menlo Digital MD-VA1,38.927213,-77.423931,Under Construction,2027.0,Fairfax
+530,Richmond Campus (Menlo Digital),37.2112,-77.362621,Planned,,Chesterfield
+531,Sterling Data Center (Menlo Digital),39.000881,-77.446457,Planned,2028.0,Loudoun
+532,Meta White Oak - Building 1,37.48196,-77.2338,Operating,2020.0,Henrico
+533,Meta White Oak - Building 2,37.484447,-77.238094,Operating,2020.0,Henrico
+534,Meta White Oak - Building 3,37.483496,-77.236522,Operating,2020.0,Henrico
+535,Meta White Oak - Building 4,37.478318,-77.226145,Operating,2022.0,Henrico
+536,Meta White Oak - Building 5,37.477242,-77.226637,Operating,2022.0,Henrico
+537,Microsoft AVC01,36.742391,-78.10385,Operating,2024.0,Mecklenburg
+538,Microsoft AVC02,36.742116,-78.102535,Under Construction,2027.0,Mecklenburg
+539,Microsoft AVC03,36.741581,-78.101353,Planned,2028.0,Mecklenburg
+540,Microsoft AVC09,36.703387,-78.06713,Operating,2025.0,Mecklenburg
+541,Microsoft AVC10,36.702306,-78.067171,Planned,2027.0,Mecklenburg
+542,Microsoft AVC11,36.70853,-78.067049,Planned,2028.0,Mecklenburg
+543,Microsoft AVC12,36.710037,-78.066967,Planned,2029.0,Mecklenburg
+544,Microsoft AVC13,36.712296,-78.067089,Planned,2030.0,Mecklenburg
+545,Microsoft AVC17,36.628837,-78.518159,Operating,2026.0,Mecklenburg
+546,Microsoft AVC18,36.629835,-78.517827,Operating,2026.0,Mecklenburg
+547,Microsoft AVC19,36.63079,-78.517771,Planned,2028.0,Mecklenburg
+548,Microsoft AVC20,36.632143,-78.515587,Planned,2028.0,Mecklenburg
+549,Microsoft AVC21,36.632254,-78.517052,Planned,2028.0,Mecklenburg
+550,Microsoft AVC43-1,36.704541,-78.128596,Operating,2026.0,Mecklenburg
+551,Microsoft AVC43-2,36.70134,-78.12511,Under Construction,2027.0,Mecklenburg
+552,Microsoft Azure MNZ07,38.793503,-77.579597,Planned,,Prince William
+553,Microsoft Azure MNZ08,38.794188,-77.582008,Planned,,Prince William
+554,Microsoft East Coast BN1,36.67688,-78.37715,Operating,2012.0,Mecklenburg
+555,Microsoft East Coast BN10,36.68958,-78.37763,Operating,2018.0,Mecklenburg
+556,Microsoft East Coast BN11,36.68966,-78.37652,Operating,2018.0,Mecklenburg
+557,Microsoft East Coast BN12,36.69248,-78.37679,Operating,2020.0,Mecklenburg
+558,Microsoft East Coast BN13,36.69271,-78.37811,Operating,2020.0,Mecklenburg
+559,Microsoft East Coast BN14,36.69507,-78.37629,Operating,2020.0,Mecklenburg
+560,Microsoft East Coast BN2,36.679248,-78.374149,Operating,2013.0,Mecklenburg
+561,Microsoft East Coast BN3,36.67754,-78.37466,Operating,2014.0,Mecklenburg
+562,Microsoft East Coast BN4,36.68167,-78.37468,Operating,2015.0,Mecklenburg
+563,Microsoft East Coast BN49,36.682167,-78.3777537,Operating,2013.0,Mecklenburg
+564,Microsoft East Coast BN6,36.68301,-78.3769,Operating,2016.0,Mecklenburg
+565,Microsoft East Coast BN7,36.68308,-78.37579,Operating,2016.0,Mecklenburg
+566,Microsoft East Coast BN8,36.68614,-78.37725,Operating,2017.0,Mecklenburg
+567,Microsoft East Coast BN80,36.675732,-78.373871,Operating,2013.0,Mecklenburg
+568,Microsoft East Coast BN9,36.68623,-78.37614,Operating,2017.0,Mecklenburg
+569,Microsoft IAD-11 Blue Ridge,38.94836478,-77.55588803,Operating,2024.0,Loudoun
+570,Microsoft IAD-12 Blue Ridge,38.95126956,-77.55555321,Under Construction,2026.0,Loudoun
+571,Microsoft IAD-13 Blue Ridge,38.94968285,-77.5543211,Under Construction,2026.0,Loudoun
+572,Microsoft Leesburg - Building 1,39.0747993,-77.5641098,Operating,2021.0,Loudoun
+573,Microsoft Leesburg - Building 2,39.0754697,-77.5629848,Operating,2021.0,Loudoun
+574,Microsoft Leesburg - Building 3,39.06954,-77.560774,Operating,2023.0,Loudoun
+575,Microsoft Leesburg - Building 4,39.069467,-77.559348,Operating,2023.0,Loudoun
+576,Microsoft Leesburg - Building 5,39.065924,-77.558619,Operating,2025.0,Loudoun
+577,Microsoft LVL01,36.660106,-78.365738,Operating,2022.0,Mecklenburg
+578,Microsoft LVL02,36.659588,-78.364588,Operating,2022.0,Mecklenburg
+579,Microsoft LVL03,36.659252,-78.363403,Operating,2022.0,Mecklenburg
+580,Microsoft LVL04,36.659213,-78.362038,Operating,2024.0,Mecklenburg
+581,Microsoft LVL05,36.657014,-78.364277,Operating,2024.0,Mecklenburg
+582,Microsoft LVL06,36.663391,-78.361499,Operating,2025.0,Mecklenburg
+583,Microsoft LVL07,36.663679,-78.362792,Operating,2025.0,Mecklenburg
+584,Microsoft LVL08,36.692411,-78.366209,Operating,2022.0,Mecklenburg
+585,Microsoft LVL09,36.695056,-78.366141,Operating,2024.0,Mecklenburg
+586,Microsoft LVL10,36.695567,-78.365004,Operating,2025.0,Mecklenburg
+587,Microsoft LVL11,36.69606,-78.363934,Operating,2025.0,Mecklenburg
+588,Microsoft LVL12,36.697337,-78.356814,Under Construction,2026.0,Mecklenburg
+589,Microsoft LVL13,36.698504,-78.357701,Under Construction,2027.0,Mecklenburg
+590,Microsoft LVL14,36.70036,-78.359548,Planned,2027.0,Mecklenburg
+591,Microsoft LVL16 - Building 1,36.653335,-78.362157,Planned,2029.0,Mecklenburg
+592,Microsoft LVL16 - Building 2,36.651852,-78.366494,Planned,2031.0,Mecklenburg
+593,Microsoft LVL16 - Building 3,36.65198,-78.361357,Planned,2032.0,Mecklenburg
+594,Microsoft LVL16 - Building 4,36.650513,-78.366455,Planned,2033.0,Mecklenburg
+595,Microsoft LVL16 - Building 5,36.650555,-78.361234,Planned,2034.0,Mecklenburg
+596,Microsoft LYH03,36.776208,-78.467966,Under Construction,2027.0,Mecklenburg
+597,Microsoft LYH04,36.777223,-78.468441,Planned,2027.0,Mecklenburg
+598,Microsoft LYH05,36.778112,-78.468853,Planned,2028.0,Mecklenburg
+599,Microsoft LYH06,36.779076,-78.469233,Planned,2028.0,Mecklenburg
+600,Microsoft LYH10,36.68952,-78.3484,Operating,2025.0,Mecklenburg
+601,Microsoft MNZ01,38.79855544241973,-77.53271713791467,Planned,2028.0,Prince William
+602,Microsoft MNZ02,38.79897201897513,-77.53499920725051,Planned,2028.0,Prince William
+603,Microsoft MNZ03,38.779815056126935,-77.56921116718439,Under Construction,2026.0,Prince William
+604,Microsoft MNZ04,38.778696501609666,-77.56985995019619,Planned,2028.0,Prince William
+605,Microsoft MNZ05,38.77774149410254,-77.57027854795338,Planned,2029.0,Prince William
+606,Microsoft MNZ06,38.77684843317011,-77.57081875714839,Planned,2029.0,Prince William
+607,Microsoft WTC Station B East 1,38.737162,-77.826162,Operating,2020.0,Fauquier
+608,Microsoft WTC Station B East 2,38.73825,-77.825813,Operating,2022.0,Fauquier
+609,NRO Aerospace Data Facility-East (Area 58),38.736111,-77.158333,Operating,,Fairfax
+610,NTT Ashburn VA1,39.0229666,-77.4547496,Operating,2012.0,Loudoun
+611,NTT Ashburn VA2,39.02506474,-77.45758429,Operating,2015.0,Loudoun
+612,NTT Ashburn VA3,39.017182,-77.470376,Operating,2018.0,Loudoun
+613,NTT Ashburn VA4,39.019869,-77.472595,Operating,2019.0,Loudoun
+614,NTT Ashburn VA5,39.018296,-77.472614,Operating,2020.0,Loudoun
+615,NTT Ashburn VA6,39.0169133,-77.4734442,Operating,2024.0,Loudoun
+616,NTT Ashburn VA7,39.0157846,-77.4718397,Under Construction,2026.0,Loudoun
+617,NTT Ashburn VA8 (AWS IAD-215),39.02019,-77.475531,Operating,2024.0,Loudoun
+618,NTT Ashburn VA9,39.018867,-77.4758,Planned,,Loudoun
+619,NTT Gainesville VA10,38.79981805288792,-77.61000566451116,Operating,2025.0,Prince William
+620,NTT Gainesville VA11,38.80044939977437,-77.61133498942738,Under Construction,2027.0,Prince William
+621,NTT Gainesville VA12,38.80102398813513,-77.61272771736844,Planned,2028.0,Prince William
+622,NTT Gainesville VA13,38.802576236452225,-77.61481644000615,Planned,2029.0,Prince William
+623,Oasis Dahlgren West Data Center,38.30967,-77.1084,Planned,,King George
+624,Oasis Greensville - Building 1,36.789855,-77.509109,Planned,2031.0,Greensville
+625,Oasis Greensville - Building 10,36.782133,-77.504759,Planned,2039.0,Greensville
+626,Oasis Greensville - Building 11,36.783359,-77.501047,Planned,2041.0,Greensville
+627,Oasis Greensville - Building 12,36.782116,-77.501022,Planned,2041.0,Greensville
+628,Oasis Greensville - Building 2,36.789621,-77.506012,Planned,2031.0,Greensville
+629,Oasis Greensville - Building 3,36.788517,-77.506027,Planned,2033.0,Greensville
+630,Oasis Greensville - Building 4,36.787285,-77.506019,Planned,2033.0,Greensville
+631,Oasis Greensville - Building 5,36.786216,-77.507153,Planned,2035.0,Greensville
+632,Oasis Greensville - Building 6,36.786198,-77.503466,Planned,2035.0,Greensville
+633,Oasis Greensville - Building 7,36.783361,-77.50847,Planned,2037.0,Greensville
+634,Oasis Greensville - Building 8,36.78214,-77.508446,Planned,2037.0,Greensville
+635,Oasis Greensville - Building 9,36.783365,-77.504784,Planned,2039.0,Greensville
+636,Oasis Russell - Building 1,36.955337,-82.182317,Planned,2029.0,Russell
+637,Oasis Russell - Building 2,36.952401,-82.185126,Planned,2031.0,Russell
+638,Oasis Russell - Building 3,36.96209,-82.18071,Planned,2033.0,Russell
+639,Wise Innovation Hub - Building 1,36.973672,-82.540984,Planned,2029.0,Wise
+640,Wise Innovation Hub - Building 2,36.973672,-82.538934,Planned,2030.0,Wise
+641,Wise Innovation Hub - Building 3,36.973672,-82.536883,Planned,2031.0,Wise
+642,Wise Innovation Hub - Building 4,36.975043,-82.540984,Planned,2032.0,Wise
+643,Wise Innovation Hub - Building 5,36.975043,-82.538934,Planned,2033.0,Wise
+644,Wise Innovation Hub - Building 6,36.975043,-82.536883,Planned,2033.0,Wise
+645,Wise Innovation Hub - Building 7,36.976414,-82.540984,Planned,2034.0,Wise
+646,Wise Innovation Hub - Building 8,36.976414,-82.538934,Planned,2035.0,Wise
+647,Wise Innovation Hub - Building 9,36.976414,-82.536883,Planned,2036.0,Wise
+648,OVHcloud VIN1 Vint Hill,38.74741879,-77.6742572,Operating,2018.0,Fauquier
+649,Chantilly Premier Data Center,38.905161,-77.462856,Under Construction,2027.0,Fairfax
+650,Kings Corridor Forest Lane - Building 1,38.277341,-77.381727,Planned,2031.0,Stafford
+651,Kings Corridor Forest Lane - Building 10,38.272954,-77.381294,Planned,2033.0,Stafford
+652,Kings Corridor Forest Lane - Building 11,38.272924,-77.384634,Planned,2034.0,Stafford
+653,Kings Corridor Forest Lane - Building 12,38.271964,-77.382093,Planned,2034.0,Stafford
+654,Kings Corridor Forest Lane - Building 13,38.272888,-77.395772,Planned,2032.0,Stafford
+655,Kings Corridor Forest Lane - Building 14,38.272028,-77.392897,Planned,2032.0,Stafford
+656,Kings Corridor Forest Lane - Building 15,38.271779,-77.395273,Planned,2033.0,Stafford
+657,Kings Corridor Forest Lane - Building 16,38.271182,-77.394701,Planned,2033.0,Stafford
+658,Kings Corridor Forest Lane - Building 17,38.270077,-77.394197,Planned,2033.0,Stafford
+659,Kings Corridor Forest Lane - Building 18,38.270047,-77.391649,Planned,2033.0,Stafford
+660,Kings Corridor Forest Lane - Building 19,38.26948,-77.393628,Planned,2034.0,Stafford
+661,Kings Corridor Forest Lane - Building 2,38.276379,-77.379191,Planned,2031.0,Stafford
+662,Kings Corridor Forest Lane - Building 20,38.268388,-77.393132,Planned,2034.0,Stafford
+663,Kings Corridor Forest Lane - Building 21,38.268073,-77.390394,Planned,2034.0,Stafford
+664,Kings Corridor Forest Lane - Building 22,38.267793,-77.39256,Planned,2034.0,Stafford
+665,Kings Corridor Forest Lane - Building 23,38.266684,-77.392061,Planned,2035.0,Stafford
+666,Kings Corridor Forest Lane - Building 24,38.266089,-77.391482,Planned,2035.0,Stafford
+667,Kings Corridor Forest Lane - Building 25,38.263531,-77.398434,Planned,2034.0,Stafford
+668,Kings Corridor Forest Lane - Building 26,38.263453,-77.395566,Planned,2034.0,Stafford
+669,Kings Corridor Forest Lane - Building 27,38.262915,-77.392841,Planned,2035.0,Stafford
+670,Kings Corridor Forest Lane - Building 28,38.262369,-77.396164,Planned,2035.0,Stafford
+671,Kings Corridor Forest Lane - Building 29,38.261987,-77.399192,Planned,2035.0,Stafford
+672,Kings Corridor Forest Lane - Building 3,38.276347,-77.382529,Planned,2032.0,Stafford
+673,Kings Corridor Forest Lane - Building 30,38.261829,-77.393434,Planned,2035.0,Stafford
+674,Kings Corridor Forest Lane - Building 31,38.261447,-77.396462,Planned,2036.0,Stafford
+675,Kings Corridor Forest Lane - Building 4,38.275628,-77.382779,Planned,2032.0,Stafford
+676,Kings Corridor Forest Lane - Building 5,38.275392,-77.38,Planned,2032.0,Stafford
+677,Kings Corridor Forest Lane - Building 6,38.27467,-77.380245,Planned,2032.0,Stafford
+678,Kings Corridor Forest Lane - Building 7,38.274637,-77.383585,Planned,2033.0,Stafford
+679,Kings Corridor Forest Lane - Building 8,38.273917,-77.38383,Planned,2033.0,Stafford
+680,Kings Corridor Forest Lane - Building 9,38.273675,-77.381049,Planned,2033.0,Stafford
+681,Kings Corridor Simms Farm - Building 1,38.252433,-77.359124,Planned,2029.0,Stafford
+682,Kings Corridor Simms Farm - Building 2,38.253366,-77.356933,Planned,2029.0,Stafford
+683,Kings Corridor Simms Farm - Building 3,38.252261,-77.355555,Planned,2029.0,Stafford
+684,Kings Corridor Simms Farm - Building 4,38.250109,-77.356331,Planned,2029.0,Stafford
+685,Kings Corridor Sisson South - Building 1,38.255802,-77.397016,Planned,2029.0,Stafford
+686,Kings Corridor Sisson South - Building 10,38.253484,-77.385985,Planned,2031.0,Stafford
+687,Kings Corridor Sisson South - Building 11,38.251697,-77.385744,Planned,2031.0,Stafford
+688,Kings Corridor Sisson South - Building 12,38.255034,-77.385126,Planned,2031.0,Stafford
+689,Kings Corridor Sisson South - Building 13,38.25322,-77.384515,Planned,2031.0,Stafford
+690,Kings Corridor Sisson South - Building 2,38.255196,-77.395741,Planned,2029.0,Stafford
+691,Kings Corridor Sisson South - Building 3,38.255033,-77.394816,Planned,2029.0,Stafford
+692,Kings Corridor Sisson South - Building 4,38.254429,-77.393538,Planned,2029.0,Stafford
+693,Kings Corridor Sisson South - Building 5,38.252517,-77.393108,Planned,2030.0,Stafford
+694,Kings Corridor Sisson South - Building 6,38.254269,-77.392612,Planned,2030.0,Stafford
+695,Kings Corridor Sisson South - Building 7,38.253662,-77.391336,Planned,2030.0,Stafford
+696,Kings Corridor Sisson South - Building 8,38.255413,-77.390858,Planned,2030.0,Stafford
+697,Kings Corridor Sisson South - Building 9,38.254521,-77.388288,Planned,2030.0,Stafford
+698,Remington Technology Park,38.54050798,-77.7890749,Planned,,Fauquier
+699,Dahlgren West,38.30985,-77.11264,Planned,,King George
+700,PowerHouse 95 - Building 1,38.222306,-77.475623,Under Construction,2026.0,Spotsylvania
+701,PowerHouse 95 - Building 2,38.221671,-77.477714,Under Construction,2026.0,Spotsylvania
+702,PowerHouse 95 - Building 3,38.220451,-77.477508,Under Construction,2027.0,Spotsylvania
+703,PowerHouse 95 - Building 4,38.219194,-77.477603,Under Construction,2027.0,Spotsylvania
+704,PowerHouse 95 - Building 5,38.217636,-77.480877,Under Construction,2027.0,Spotsylvania
+705,PowerHouse 95 - Building 6,38.215858,-77.480094,Planned,,Spotsylvania
+706,PowerHouse 95 - Building 7,38.216098,-77.47851,Planned,,Spotsylvania
+707,PowerHouse Arcola - Building 1,38.94345,-77.53545,Planned,2028.0,Loudoun
+708,PowerHouse Arcola - Building 2,38.94203,-77.5371,Planned,2028.0,Loudoun
+709,PowerHouse Pacific - Building 1,39.005457,-77.446273,Under Construction,2027.0,Loudoun
+710,PowerHouse Pacific - Building 2,39.003779,-77.448632,Under Construction,2027.0,Loudoun
+711,PowerHouse Pacific - Building 3,39.003706,-77.446775,Under Construction,2027.0,Loudoun
+712,PowerHouse Quantum Connect Ashburn,39.010681,-77.472224,Planned,2026.0,Loudoun
+713,1600 Digital Drive - Building 1 (DDC-01),37.356686,-77.333403,Under Construction,2027.0,Chesterfield
+714,1600 Digital Drive - Building 2 (DDC-02),37.355007,-77.333985,Under Construction,2028.0,Chesterfield
+715,1600 Digital Drive - Future Expansion,37.357417,-77.335791,Planned,,Chesterfield
+716,Chirisa/PowerHouse CTP-02,37.36057,-77.32572,Operating,2026.0,Chesterfield
+717,Chirisa/PowerHouse CTP-03,37.3616563,-77.3282825,Under Construction,2027.0,Chesterfield
+718,Powhatan Technology Park,,,Planned,,Powhatan
+719,QTS Ashburn 1 DC1,38.999515,-77.450171,Operating,2018.0,Loudoun
+720,QTS Ashburn 1 DC2,38.998409,-77.448852,Under Construction,2026.0,Loudoun
+721,QTS Ashburn 2 DC1,38.995355,-77.455183,Operating,2023.0,Loudoun
+722,QTS Ashburn 2 DC2,38.995199,-77.456888,Operating,2023.0,Loudoun
+723,QTS Ashburn 3 DC1,38.998079,-77.475571,Operating,2021.0,Loudoun
+724,QTS Ashburn 3 DC2,38.998772,-77.474264,Operating,2022.0,Loudoun
+725,QTS Digital Gateway North,38.84683,-77.56985,Canceled,,Prince William
+726,QTS Digital Gateway South,38.81977,-77.57396,Canceled,,Prince William
+727,QTS Manassas DC1,38.753483820178246,-77.51314203141868,Operating,2019.0,Prince William
+728,QTS Manassas DC2,38.75347517046534,-77.51246864260222,Operating,2025.0,Prince William
+729,QTS Manassas DC3,38.753753946410605,-77.51054702181719,Operating,2024.0,Prince William
+730,QTS Manassas DC4,38.751972483585405,-77.51605452393117,Under Construction,2027.0,Prince William
+731,QTS Manassas DC5,38.754793793721866,-77.51650847239954,Operating,2022.0,Prince William
+732,QTS Manassas DC6,38.74981886444288,-77.51304550880432,Operating,2026.0,Prince William
+733,QTS Moran,38.994227,-77.448189,Operating,2015.0,Loudoun
+734,QTS Richmond RIC1-DC1,37.48892,-77.24632,Operating,2012.0,Henrico
+735,QTS Richmond RIC1-DC2,37.4885,-77.247,Operating,2021.0,Henrico
+736,QTS Richmond RIC1-DC3,37.4881,-77.2456,Operating,2023.0,Henrico
+737,QTS Richmond RIC1-DC4,37.48386,-77.24777,Operating,2024.0,Henrico
+738,QTS Richmond RIC1-DC5,37.48483,-77.24927,Operating,2025.0,Henrico
+739,QTS Richmond RIC1-DC6,37.48523,-77.25013,Operating,2025.0,Henrico
+740,QTS Richmond RIC2-DC1,37.48817,-77.24006,Operating,2023.0,Henrico
+741,QTS Richmond RIC2-DC2,37.48709,-77.24098,Operating,2023.0,Henrico
+742,QTS Richmond RIC2-DC3,37.48607,-77.24189,Operating,2025.0,Henrico
+743,QTS Richmond RIC2-DC5,37.48485,-77.24298,Operating,2025.0,Henrico
+744,QTS Richmond RIC2-DC6,37.4839,-77.24376,Operating,2026.0,Henrico
+745,QTS Richmond RIC3-DC1,37.4805,-77.25162,Operating,2025.0,Henrico
+746,QTS Richmond RIC3-DC2,37.47973,-77.25221,Operating,2026.0,Henrico
+747,QTS Richmond RIC3-DC3,37.47851,-77.253,Operating,2026.0,Henrico
+748,QTS Richmond RIC3-DC4,37.47792,-77.24898,Operating,2026.0,Henrico
+749,QTS Richmond RIC3-DC5,37.47702,-77.24969,Operating,2026.0,Henrico
+750,QTS Richmond RIC4-DC1,37.506232,-77.258889,Planned,2029.0,Henrico
+751,QTS Richmond RIC4-DC10,37.504732,-77.251289,Planned,2030.0,Henrico
+752,QTS Richmond RIC4-DC2,37.506232,-77.256989,Planned,2029.0,Henrico
+753,QTS Richmond RIC4-DC3,37.506232,-77.255089,Planned,2029.0,Henrico
+754,QTS Richmond RIC4-DC4,37.506232,-77.253189,Planned,2029.0,Henrico
+755,QTS Richmond RIC4-DC5,37.506232,-77.251289,Planned,2029.0,Henrico
+756,QTS Richmond RIC4-DC6,37.504732,-77.258889,Planned,2030.0,Henrico
+757,QTS Richmond RIC4-DC7,37.504732,-77.256989,Planned,2030.0,Henrico
+758,QTS Richmond RIC4-DC8,37.504732,-77.255089,Planned,2030.0,Henrico
+759,QTS Richmond RIC4-DC9,37.504732,-77.253189,Planned,2030.0,Henrico
+760,QTS Richmond RIC5-DC1,37.513547,-77.258695,Under Construction,2027.0,Henrico
+761,QTS Richmond RIC5-DC2,37.51156,-77.259645,Planned,2027.0,Henrico
+762,QTS Richmond RIC5-DC3,37.51156,-77.255045,Planned,2028.0,Henrico
+763,QTS Richmond RIC5-DC4,37.50996,-77.261945,Planned,2028.0,Henrico
+764,QTS Richmond RIC5-DC5,37.50996,-77.259645,Planned,2028.0,Henrico
+765,QTS Richmond RIC5-DC6,37.50996,-77.257345,Planned,2028.0,Henrico
+766,QTS Richmond RIC5-DC7,37.50996,-77.255045,Planned,2028.0,Henrico
+767,SDC Ashburn - Building A,39.0139576,-77.476984,Under Construction,2026.0,Loudoun
+768,SDC Ashburn - Building B,39.014614,-77.479886,Operating,2019.0,Loudoun
+769,SDC Ashburn - Building C,39.0154045,-77.4782358,Operating,2017.0,Loudoun
+770,SDC VA-04,,,Planned,,Prince William
+771,SDC Wellington Glen,38.76897,-77.54556,Planned,,Prince William
+772,Sentinel Twin Creeks,39.07398,-77.5174,Planned,,Loudoun
+773,Belmont Innovation Campus,39.0725,-77.5101,Planned,,Loudoun
+774,Sentinel Ashburn - Building 1,38.995987,-77.459719,Under Construction,2027.0,Loudoun
+775,Sentinel Ashburn - Building 2,38.995079,-77.461736,Under Construction,2027.0,Loudoun
+776,Sentinel Belmont - 19570 Hyperspace Lane,39.07370724,-77.50818022,Under Construction,2027.0,Loudoun
+777,Sentinel Belmont - Building 4,39.07489847,-77.50764273,Under Construction,2027.0,Loudoun
+778,Sentinel Cloud Plaza,39.00064655,-77.4398077,Operating,2019.0,Loudoun
+779,Serverfarm 7990 Quantum Drive,38.90900557,-77.22049996,Operating,,Fairfax
+780,Serverfarm NVA1,38.908514,-77.219696,Planned,,Fairfax
+781,Serverfarm NVA2,38.908998,-77.220545,Planned,,Fairfax
+782,NOVA 1 (IAD-230),38.98944194,-77.44954289,Operating,2025.0,Loudoun
+783,Stack Berry Hill,36.5621,-79.6039,Planned,,Pittsylvania
+784,Stack Copper Ridge - Building 1,38.464299,-77.98821,Planned,2028.0,Culpeper
+785,Stack Copper Ridge - Building 2,38.463498,-77.985545,Planned,2028.0,Culpeper
+786,Stack Copper Ridge - Building 3,38.465082,-77.986436,Planned,2029.0,Culpeper
+787,Stack Copper Ridge - Building 4,38.464447,-77.984306,Planned,2029.0,Culpeper
+788,Stack Copper Ridge - Building 5,38.466181,-77.985724,Planned,2030.0,Culpeper
+789,Stack Copper Ridge - Building 6,38.46559,-77.983754,Planned,2030.0,Culpeper
+790,Stack Culpeper Technology Campus - Building 1,38.460711,-77.984093,Planned,2028.0,Culpeper
+791,Stack Culpeper Technology Campus - Building 2,38.461094,-77.985342,Planned,2029.0,Culpeper
+792,Stack Culpeper Technology Campus - Building 3,38.461547,-77.986895,Planned,2029.0,Culpeper
+793,Stack Culpeper Technology Campus - Building 4,38.461824,-77.987841,Planned,2030.0,Culpeper
+794,Stack Culpeper Technology Campus - Building 5,38.462274,-77.989395,Planned,2030.0,Culpeper
+795,Stack Culpeper Technology Campus - Building 6,38.459406,-77.98613,Planned,2031.0,Culpeper
+796,Stack Culpeper Technology Campus - Building 7,38.459854,-77.987684,Planned,2031.0,Culpeper
+797,Stack Culpeper Technology Campus - Building 8,38.46013,-77.98863,Planned,2032.0,Culpeper
+798,Stack Culpeper Technology Campus - Building 9,38.460582,-77.990183,Planned,2032.0,Culpeper
+799,Stack Fredericksburg,38.3179,-77.5189,Planned,,Fredericksburg
+800,Stack Keyser Road - Building A,38.469543,-77.974298,Planned,2028.0,Culpeper
+801,Stack Keyser Road - Building B,38.468171,-77.974143,Planned,2029.0,Culpeper
+802,Stack Keyser Road - Building C,38.46973,-77.971681,Planned,2029.0,Culpeper
+803,Stack Loudoun County Campus - Building 1,38.9594,-77.535,Planned,2028.0,Loudoun
+804,Stack Loudoun County Campus - Building 2,38.95943,-77.52846,Planned,2028.0,Loudoun
+805,Stack NVA01,39.004699,-77.441764,Operating,2021.0,Loudoun
+806,Stack NVA02A,38.74303154,-77.53346798,Operating,2023.0,Prince William
+807,Stack NVA02B,38.74413422,-77.53330418,Operating,2023.0,Prince William
+808,Stack NVA02C,38.74495556,-77.533179,Operating,2023.0,Prince William
+809,Stack NVA02D,38.74631115,-77.53626206,Operating,2023.0,Prince William
+810,Stack NVA02E,38.74498898,-77.5392547,Operating,2024.0,Prince William
+811,Stack NVA02F,38.74414674,-77.53886988,Under Construction,2026.0,Prince William
+812,Stack NVA02G,38.74808073,-77.53779281,Under Construction,2026.0,Prince William
+813,Stack NVA02H,38.74288001,-77.54429487,Under Construction,2027.0,Prince William
+814,Stack NVA02I,38.74344882,-77.54264309,Under Construction,2026.0,Prince William
+815,Stack NVA02J,38.74052878,-77.54275451,Under Construction,2027.0,Prince William
+816,Stack NVA04A 22275 Lockridge Road,38.99913,-77.46081,Operating,2025.0,Loudoun
+817,Stack NVA04B 22285 Lockridge Road,39.00045,-77.46077,Under Construction,2026.0,Loudoun
+818,Stack NVA04C 22295 Lockridge Road,39.00166,-77.46084,Planned,2028.0,Loudoun
+819,Stack NVA05A,38.75857,-77.51669,Operating,2025.0,Prince William
+820,Stack NVA05B,38.76104,-77.51451,Under Construction,2026.0,Prince William
+821,Stack NVA05C,38.76037,-77.51185,Under Construction,2026.0,Prince William
+822,Stack NVA05E,38.7653,-77.51829,Planned,2028.0,Prince William
+823,Stack NVA06A,39.082183,-77.565079,Operating,2026.0,Loudoun
+824,Stack NVA06B,39.080136,-77.564861,Under Construction,2026.0,Loudoun
+825,Stack Rabbit Run Technology Park - Building 1,38.452695,-77.983538,Planned,,Culpeper
+826,Stack Rabbit Run Technology Park - Building 2,38.453212,-77.982155,Planned,,Culpeper
+827,Stack STC A1,38.383265,-77.430375,Planned,2027.0,Stafford
+828,Stack STC A2,38.384482,-77.431368,Planned,2027.0,Stafford
+829,Stack STC A3,38.386217,-77.431972,Planned,2027.0,Stafford
+830,Stack STC Central 1,38.383982,-77.42919,Planned,2030.0,Stafford
+831,Stack STC Central 2,38.384958,-77.42793,Planned,2030.0,Stafford
+832,Stack STC Central 3,38.385993,-77.427507,Planned,2030.0,Stafford
+833,Stack STC Central 4,38.387515,-77.430721,Planned,2030.0,Stafford
+834,Stack STC Central 5,38.387204,-77.429269,Planned,2031.0,Stafford
+835,Stack STC Central 6,38.386763,-77.427975,Planned,2031.0,Stafford
+836,Stack STC Central 7,38.384257,-77.426982,Planned,2031.0,Stafford
+837,Stack STC South 1,38.381116,-77.428447,Under Construction,2027.0,Stafford
+838,Stack STC South 2,38.3819,-77.429565,Under Construction,2027.0,Stafford
+839,Stack STC South 3,38.382664,-77.433087,Planned,2028.0,Stafford
+840,Stack STC South 4,38.385442,-77.432274,Planned,2028.0,Stafford
+841,Stack STC West 1,38.385638,-77.436983,Under Construction,2027.0,Stafford
+842,Stack STC West 2,38.384715,-77.435864,Under Construction,2027.0,Stafford
+843,Stack STC West 3,38.383192,-77.436453,Under Construction,2027.0,Stafford
+844,Stack STC West 4,38.38144,-77.436743,Planned,2029.0,Stafford
+845,Stack STC West 5,38.381861,-77.438415,Planned,2029.0,Stafford
+846,Dulles Gateway,38.93891,-77.42799,Under Construction,,Fairfax
+847,Renaissance Tech Park A (AWS IAD-500),38.936531,-77.4246658,Under Construction,2026.0,Fairfax
+848,Renaissance Tech Park B,38.9354095,-77.4267609,Under Construction,2027.0,Fairfax
+849,Renaissance Tech Park C (AWS IAD-501),38.9375916,-77.4257666,Under Construction,2026.0,Fairfax
+850,Renaissance Tech Park D,38.933117,-77.424724,Planned,2027.0,Fairfax
+851,Renaissance Tech Park E (IAD05),38.935097,-77.424514,Under Construction,2027.0,Fairfax
+852,Renaissance Tech Park F (IAD06),38.935931,-77.422926,Under Construction,2027.0,Fairfax
+853,Starwood Plaza 500 - Building 1,38.802242,-77.141955,Planned,2028.0,Fairfax
+854,Starwood Plaza 500 - Building 2,38.801373,-77.141547,Planned,2029.0,Fairfax
+855,Stream Data Centers Catlett - Building 1,38.660161,-77.633427,Canceled,,Fauquier
+856,Stream Data Centers Catlett - Building 2,38.661288,-77.633614,Canceled,,Fauquier
+857,Stream Data Centers Catlett - Building 3,38.661423,-77.631422,Canceled,,Fauquier
+858,Stream Data Centers Catlett - Building 4,38.663153,-77.632491,Canceled,,Fauquier
+859,T5 Chantilly,38.877679,-77.455434,Planned,2029.0,Fairfax
+860,TADG IAD01 - Building 1 (AWS IAD-667),39.05779569,-77.54674298,Operating,2026.0,Loudoun
+861,TADG IAD01 - Building 2 (AWS IAD-668),39.05593637,-77.54731995,Operating,2026.0,Loudoun
+862,TADG IAD01 - Building 3 (AWS IAD-669),39.055261,-77.544822,Under Construction,2026.0,Loudoun
+863,TADG IAD01 - Building 4 (AWS IAD-670),39.054122,-77.545995,Under Construction,2027.0,Loudoun
+864,TADG IAD01 - Building 5 (AWS IAD-671),39.053976,-77.544217,Planned,2028.0,Loudoun
+865,TADG IAD02 - Building 1 (AWS IAD-45),38.761305,-77.539339,Under Construction,2028.0,Prince William
+866,TADG IAD02 - Building 2,38.762985,-77.539702,Planned,2028.0,Prince William
+867,TADG IAD02 - Building 3,38.764036,-77.53787,Planned,2029.0,Prince William
+868,TADG IAD03 - Building 1,38.757197,-77.545376,Planned,,Prince William
+869,TADG IAD03 - Building 2,38.75571,-77.546235,Planned,,Prince William
+870,TADG IAD03 - Building 3,38.753627,-77.545577,Planned,,Prince William
+871,TADG IAD04,39.026225,-77.411495,Planned,2028.0,Loudoun
+872,TADG IAD05,38.985303,-77.418993,Planned,2028.0,Loudoun
+873,TADG Thayer Road,39.026575,-77.424211,Planned,,Loudoun
+874,Project Tallmadge (Takanock),39.0117587,-78.35971498,Planned,2030.0,Shenandoah
+875,TECfusions Clarksville,36.60103301,-78.55016914,Operating,2024.0,Mecklenburg
+876,TECfusions Clarksville Expansion,36.6005,-78.5428,Planned,,Mecklenburg
+877,Thornberry Data Center Campus,37.95416,-77.40686,Planned,,Caroline
+878,Tract Chesterfield Technology Park - Building 1,37.298098,-77.46216,Canceled,,Chesterfield
+879,Tract Chesterfield Technology Park - Building 10,37.290844,-77.447527,Canceled,,Chesterfield
+880,Tract Chesterfield Technology Park - Building 11,37.288946,-77.445117,Canceled,,Chesterfield
+881,Tract Chesterfield Technology Park - Building 2,37.301359,-77.458788,Canceled,,Chesterfield
+882,Tract Chesterfield Technology Park - Building 3,37.300794,-77.455575,Canceled,,Chesterfield
+883,Tract Chesterfield Technology Park - Building 4,37.301466,-77.452062,Canceled,,Chesterfield
+884,Tract Chesterfield Technology Park - Building 5,37.298844,-77.456652,Canceled,,Chesterfield
+885,Tract Chesterfield Technology Park - Building 6,37.293102,-77.460128,Canceled,,Chesterfield
+886,Tract Chesterfield Technology Park - Building 7,37.290395,-77.458997,Canceled,,Chesterfield
+887,Tract Chesterfield Technology Park - Building 8,37.291174,-77.455728,Canceled,,Chesterfield
+888,Tract Chesterfield Technology Park - Building 9,37.291547,-77.452974,Canceled,,Chesterfield
+889,Tract Hanover Technology Park - Building 1,37.78082,-77.433953,Planned,2030.0,Hanover
+890,Tract Hanover Technology Park - Building 2,37.782161,-77.434591,Planned,2030.0,Hanover
+891,Tract Hanover Technology Park - Building 3,37.782441,-77.443126,Planned,2030.0,Hanover
+892,Tract Hanover Technology Park - Future Phases,37.77794,-77.43238,Planned,,Hanover
+893,Tract Mountain Road Technology Park,37.68726488,-77.5432181,Canceled,,Hanover
+894,Tract Tuckahoe Technology Park - Building 1,37.610706,-77.693861,Planned,,Goochland
+895,Tract Tuckahoe Technology Park - Building 10,37.616756,-77.667363,Planned,,Goochland
+896,Tract Tuckahoe Technology Park - Building 11,37.611259,-77.6797,Planned,,Goochland
+897,Tract Tuckahoe Technology Park - Building 2,37.614231,-77.693043,Planned,,Goochland
+898,Tract Tuckahoe Technology Park - Building 3,37.615444,-77.693056,Planned,,Goochland
+899,Tract Tuckahoe Technology Park - Building 4,37.617186,-77.680523,Planned,,Goochland
+900,Tract Tuckahoe Technology Park - Building 5,37.618327,-77.680473,Planned,,Goochland
+901,Tract Tuckahoe Technology Park - Building 6,37.619662,-77.68049,Planned,,Goochland
+902,Tract Tuckahoe Technology Park - Building 7,37.615086,-77.669761,Planned,,Goochland
+903,Tract Tuckahoe Technology Park - Building 8,37.615681,-77.670051,Planned,,Goochland
+904,Tract Tuckahoe Technology Park - Building 9,37.616017,-77.666983,Planned,,Goochland
+905,CBP National Data Center,38.738169,-77.208242,Operating,,Fairfax
+906,Vantage Ashburn VA-3 - Building 1,39.077761,-77.504962,Under Construction,2026.0,Loudoun
+907,Vantage Ashburn VA-3 - Building 2,39.079686,-77.503128,Planned,2027.0,Loudoun
+908,Vantage Ashburn VA-3 - Building 3,39.081076,-77.505869,Planned,2027.0,Loudoun
+909,Vantage Ashburn VA-3 - Building 4,39.083143,-77.508389,Planned,2028.0,Loudoun
+910,Vantage Ashburn VA-3 - Building 5,39.081396,-77.508832,Planned,2028.0,Loudoun
+911,Vantage Ashburn VA-3 - Building 6,39.079293,-77.509228,Planned,2028.0,Loudoun
+912,Vantage Ashburn VA-3 - Building 7,39.078,-77.5105,Planned,2028.0,Loudoun
+913,Vantage VA11,39.002395,-77.437661,Operating,2020.0,Loudoun
+914,Vantage VA12,39.0017781,-77.4379151,Operating,2021.0,Loudoun
+915,Vantage VA13,39.0031632,-77.4401314,Operating,2023.0,Loudoun
+916,Vantage VA14,39.0029765,-77.4393875,Operating,2023.0,Loudoun
+917,Vantage VA15,38.999258,-77.441869,Under Construction,2026.0,Loudoun
+918,Vantage VA16,38.998468,-77.441165,Planned,2027.0,Loudoun
+919,Vantage VA2,38.99755934,-77.43040025,Operating,2025.0,Loudoun
+920,Vantage VA41,38.387381,-77.463912,Under Construction,2026.0,Stafford
+921,Vantage VA42,38.3905,-77.464,Planned,2028.0,Stafford
+922,Vantage VA43,38.3898,-77.463,Planned,2028.0,Stafford
+923,VeriSign Dulles,38.99788,-77.44395,Operating,2000.0,Loudoun
+924,Verizon Manassas Technology Center,38.80488627418739,-77.51249250589166,Operating,2000.0,Prince William
+925,Verizon Quantum Park,39.011699,-77.4712827,Operating,2000.0,Loudoun
+926,Visa Operations Center East,39.0487658,-77.44539715,Operating,2009.0,Loudoun
+927,Yondr NOV1A,38.949811,-77.549441,Operating,2024.0,Loudoun
+928,Yondr NOV1B,38.948743,-77.550155,Operating,2026.0,Loudoun
+929,Yondr NOV2 - Building 1,38.95474,-77.54788,Planned,2028.0,Loudoun
+930,Caroline Center for Innovation North,37.95119,-77.42421,Planned,,Caroline
+931,Upper Magnolia,37.44797635,-77.78071524,Planned,,Chesterfield
+932,Watkins Centre,37.49955759,-77.68816659,Planned,,Chesterfield
